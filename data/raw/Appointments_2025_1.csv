@@ -1,0 +1,1001 @@
+appointment_id,appointment_date,appointment_age_group,appointment_type,GP Consultation Nurse Visit Chronic Care Review Vaccination Follow-up,wait_time_days,consultation_duration_minutes,staff_role,clinic_location,outcome_category
+1,6/12/2025,0-17,Vaccination,Completed,3,,Healthcare Assistant,Branch Clinic,
+2,4/26/2025,65+,GP Consultation,Completed,30,,Locum GP,Main Practice,Further Tests Required
+3,3/17/2025,35-49,GP Consultation,Cancelled,2,35.75,Practice Nurse,Main Practice,Further Tests Required
+4,2/23/2025,18-34,Vaccination,Cancelled,11,44.5,Practice Nurse,Main Practice,
+5,1/2/2025,50-64,Nurse Visit,No-Show,35,28.94,Practice Nurse,Community Centre,Resolved
+6,3/8/2025,0-17,GP Consultation,Cancelled,24,48.84,Practice Nurse,Community Centre,Medication Prescribed
+7,1/15/2025,0-17,Chronic Care Review,Rescheduled,8,53.75,Locum GP,Community Centre,Further Tests Required
+8,5/6/2025,35-49,Nurse Visit,No-Show,37,48.09,Practice Nurse,Branch Clinic,Resolved
+9,6/15/2025,0-17,Follow-up,Cancelled,27,19.09,Practice Nurse,Branch Clinic,Resolved
+10,5/21/2025,65+,Follow-up,Rescheduled,43,9.47,Practice Nurse,Community Centre,Medication Prescribed
+11,1/15/2025,35-49,Nurse Visit,No-Show,33,51.71,Locum GP,Main Practice,Referral Issued
+12,6/19/2025,18-34,Chronic Care Review,Cancelled,14,50.06,Locum GP,Community Centre,Resolved
+13,5/12/2025,0-17,Chronic Care Review,Cancelled,35,32.37,Locum GP,Community Centre,
+14,2/8/2025,18-34,Follow-up,Completed,38,44.76,Locum GP,Main Practice,Resolved
+15,4/24/2025,18-34,Nurse Visit,Rescheduled,20,7.37,Practice Nurse,Branch Clinic,Further Tests Required
+16,4/10/2025,65+,Nurse Visit,Completed,10,14.68,Practice Nurse,Main Practice,Further Tests Required
+17,5/8/2025,18-34,GP Consultation,Rescheduled,13,37.62,Practice Nurse,Main Practice,Medication Prescribed
+18,5/3/2025,50-64,Vaccination,Rescheduled,,8.46,Practice Nurse,Community Centre,Further Tests Required
+19,4/6/2025,50-64,Chronic Care Review,No-Show,2,32.76,Practice Nurse,Community Centre,Referral Issued
+20,4/22/2025,35-49,Vaccination,No-Show,1,21.98,Practice Nurse,Community Centre,Resolved
+21,6/11/2025,35-49,Nurse Visit,Completed,10,22.01,Healthcare Assistant,Community Centre,Referral Issued
+22,1/16/2025,18-34,GP Consultation,Rescheduled,22,36.78,Healthcare Assistant,Community Centre,
+23,4/11/2025,0-17,Chronic Care Review,No-Show,,11.21,Practice Nurse,Main Practice,Further Tests Required
+24,1/26/2025,0-17,Follow-up,No-Show,10,,Healthcare Assistant,Branch Clinic,Resolved
+25,2/28/2025,65+,Nurse Visit,Completed,2,38.23,Locum GP,Community Centre,Referral Issued
+26,1/25/2025,0-17,Vaccination,Rescheduled,21,54.4,Healthcare Assistant,Main Practice,Referral Issued
+27,4/12/2025,0-17,Chronic Care Review,No-Show,45,29.05,Healthcare Assistant,Community Centre,Resolved
+28,2/3/2025,18-34,Vaccination,Rescheduled,8,8.86,Locum GP,Branch Clinic,Referral Issued
+29,6/22/2025,65+,Vaccination,Cancelled,41,26.46,Healthcare Assistant,Community Centre,Resolved
+30,6/20/2025,65+,Chronic Care Review,No-Show,31,32.19,Healthcare Assistant,Community Centre,Resolved
+31,4/9/2025,0-17,Nurse Visit,Rescheduled,36,6.79,Locum GP,Community Centre,Medication Prescribed
+32,1/26/2025,65+,Nurse Visit,Cancelled,20,47.75,Healthcare Assistant,Branch Clinic,
+33,2/11/2025,18-34,GP Consultation,Rescheduled,14,59.27,Practice Nurse,Main Practice,
+34,5/31/2025,35-49,Chronic Care Review,Rescheduled,25,37.16,Practice Nurse,Branch Clinic,Further Tests Required
+35,5/3/2025,0-17,GP Consultation,No-Show,10,38.72,Healthcare Assistant,Branch Clinic,
+36,1/10/2025,18-34,Vaccination,Completed,39,5.18,Healthcare Assistant,Branch Clinic,Resolved
+37,4/18/2025,35-49,Vaccination,Completed,37,15.49,Locum GP,Main Practice,Referral Issued
+38,1/1/2025,50-64,Chronic Care Review,Rescheduled,10,43.05,Locum GP,Main Practice,
+39,1/8/2025,50-64,Nurse Visit,Cancelled,31,26.87,Locum GP,Community Centre,Medication Prescribed
+40,6/15/2025,50-64,GP Consultation,Cancelled,24,57.09,Healthcare Assistant,Branch Clinic,Medication Prescribed
+41,1/17/2025,50-64,Follow-up,Rescheduled,44,11.81,Practice Nurse,Branch Clinic,Resolved
+42,4/14/2025,50-64,Vaccination,Cancelled,41,,Practice Nurse,Branch Clinic,Referral Issued
+43,6/8/2025,0-17,Nurse Visit,Rescheduled,28,39.94,Locum GP,Branch Clinic,Resolved
+44,4/24/2025,65+,GP Consultation,Cancelled,42,32.22,Locum GP,Main Practice,Medication Prescribed
+45,2/2/2025,50-64,Follow-up,Rescheduled,4,36.17,Locum GP,Community Centre,Medication Prescribed
+46,5/24/2025,18-34,Chronic Care Review,Rescheduled,38,17.24,Healthcare Assistant,Community Centre,Referral Issued
+47,5/16/2025,18-34,Vaccination,Completed,37,29.75,Locum GP,Main Practice,Further Tests Required
+48,2/21/2025,50-64,Chronic Care Review,No-Show,,21.0,Locum GP,Main Practice,Further Tests Required
+49,6/12/2025,18-34,Chronic Care Review,Cancelled,27,35.48,Practice Nurse,Main Practice,Referral Issued
+50,2/3/2025,0-17,Vaccination,Rescheduled,15,45.23,Healthcare Assistant,Branch Clinic,
+51,2/15/2025,35-49,GP Consultation,Completed,28,38.37,Practice Nurse,Branch Clinic,Resolved
+52,5/15/2025,0-17,Nurse Visit,Cancelled,36,56.58,Practice Nurse,Branch Clinic,Medication Prescribed
+53,6/21/2025,18-34,Vaccination,Completed,15,34.82,Healthcare Assistant,Community Centre,Medication Prescribed
+54,3/5/2025,50-64,GP Consultation,Cancelled,8,34.15,Healthcare Assistant,Main Practice,Referral Issued
+55,1/7/2025,0-17,Follow-up,Rescheduled,,48.32,Practice Nurse,Branch Clinic,Further Tests Required
+56,4/25/2025,35-49,Nurse Visit,Completed,,21.37,Healthcare Assistant,Community Centre,Referral Issued
+57,1/4/2025,65+,Vaccination,Rescheduled,,54.97,Locum GP,Branch Clinic,
+58,3/31/2025,18-34,Follow-up,No-Show,17,14.11,Locum GP,Branch Clinic,
+59,2/11/2025,50-64,GP Consultation,Completed,27,45.59,Locum GP,Community Centre,Further Tests Required
+60,1/2/2025,50-64,Nurse Visit,No-Show,40,44.72,Healthcare Assistant,Branch Clinic,Referral Issued
+61,1/23/2025,65+,Nurse Visit,Rescheduled,21,7.61,Locum GP,Main Practice,Referral Issued
+62,1/21/2025,35-49,Follow-up,No-Show,15,32.29,Healthcare Assistant,Community Centre,Referral Issued
+63,3/2/2025,50-64,Chronic Care Review,Cancelled,26,35.5,Locum GP,Branch Clinic,Further Tests Required
+64,1/7/2025,18-34,Nurse Visit,No-Show,36,8.86,Locum GP,Community Centre,
+65,1/26/2025,0-17,Follow-up,No-Show,23,18.45,Healthcare Assistant,Branch Clinic,Medication Prescribed
+66,1/23/2025,50-64,Vaccination,No-Show,29,9.22,Locum GP,Main Practice,
+67,1/2/2025,0-17,GP Consultation,Completed,14,40.74,Practice Nurse,Community Centre,Referral Issued
+68,5/3/2025,65+,Chronic Care Review,Cancelled,15,51.8,Healthcare Assistant,Main Practice,Resolved
+69,4/4/2025,35-49,Follow-up,Rescheduled,38,24.56,Practice Nurse,Community Centre,
+70,4/29/2025,0-17,Nurse Visit,Cancelled,21,21.17,Healthcare Assistant,Main Practice,
+71,6/11/2025,0-17,Vaccination,Cancelled,19,51.97,Locum GP,Main Practice,Further Tests Required
+72,5/12/2025,50-64,Nurse Visit,No-Show,18,7.11,Locum GP,Community Centre,Resolved
+73,4/8/2025,0-17,Chronic Care Review,Rescheduled,5,55.86,Healthcare Assistant,Community Centre,Resolved
+74,2/21/2025,18-34,GP Consultation,Cancelled,25,46.06,Practice Nurse,Branch Clinic,
+75,3/19/2025,0-17,Nurse Visit,Cancelled,36,48.52,Locum GP,Community Centre,Medication Prescribed
+76,1/19/2025,0-17,Chronic Care Review,No-Show,43,54.17,Healthcare Assistant,Branch Clinic,
+77,2/18/2025,18-34,Vaccination,Rescheduled,16,57.68,Locum GP,Community Centre,Further Tests Required
+78,1/3/2025,18-34,Chronic Care Review,Completed,22,5.22,Healthcare Assistant,Main Practice,Further Tests Required
+79,3/14/2025,35-49,Nurse Visit,Rescheduled,18,46.35,Locum GP,Community Centre,Further Tests Required
+80,2/22/2025,18-34,Vaccination,Cancelled,15,35.88,Practice Nurse,Branch Clinic,Further Tests Required
+81,2/12/2025,0-17,Nurse Visit,Completed,5,53.73,Practice Nurse,Community Centre,
+82,4/4/2025,0-17,GP Consultation,No-Show,,53.31,Healthcare Assistant,Community Centre,Further Tests Required
+83,2/28/2025,0-17,Chronic Care Review,Completed,15,15.23,Locum GP,Main Practice,Medication Prescribed
+84,2/24/2025,35-49,Chronic Care Review,Completed,1,33.94,Healthcare Assistant,Main Practice,Further Tests Required
+85,6/20/2025,50-64,Follow-up,Rescheduled,36,48.3,Locum GP,Main Practice,Resolved
+86,3/7/2025,65+,GP Consultation,No-Show,41,,Locum GP,Branch Clinic,Further Tests Required
+87,5/9/2025,35-49,Follow-up,Rescheduled,19,46.12,Locum GP,Branch Clinic,Referral Issued
+88,6/15/2025,18-34,Nurse Visit,Cancelled,33,36.24,Locum GP,Community Centre,Resolved
+89,2/19/2025,35-49,Vaccination,Completed,29,58.32,Practice Nurse,Branch Clinic,Referral Issued
+90,3/2/2025,65+,GP Consultation,Cancelled,30,15.94,Healthcare Assistant,Branch Clinic,Medication Prescribed
+91,3/6/2025,18-34,GP Consultation,No-Show,14,51.88,Locum GP,Main Practice,
+92,3/7/2025,50-64,GP Consultation,Completed,35,9.17,Healthcare Assistant,Branch Clinic,Further Tests Required
+93,6/21/2025,65+,Nurse Visit,No-Show,35,37.87,Locum GP,Community Centre,
+94,1/4/2025,0-17,GP Consultation,Cancelled,39,57.91,Locum GP,Main Practice,Resolved
+95,6/3/2025,18-34,Chronic Care Review,Completed,37,,Practice Nurse,Main Practice,Resolved
+96,1/4/2025,65+,Vaccination,No-Show,16,39.93,Practice Nurse,Main Practice,Resolved
+97,5/21/2025,35-49,Chronic Care Review,No-Show,35,13.33,Healthcare Assistant,Community Centre,
+98,1/10/2025,0-17,Chronic Care Review,No-Show,18,28.54,Practice Nurse,Community Centre,
+99,1/17/2025,50-64,GP Consultation,Cancelled,34,8.72,Healthcare Assistant,Community Centre,Further Tests Required
+100,1/7/2025,65+,Vaccination,Rescheduled,30,54.02,Locum GP,Main Practice,Further Tests Required
+101,5/14/2025,0-17,Chronic Care Review,Cancelled,36,48.1,Locum GP,Main Practice,Referral Issued
+102,3/16/2025,35-49,GP Consultation,Cancelled,32,9.06,Healthcare Assistant,Branch Clinic,Further Tests Required
+103,1/17/2025,65+,Chronic Care Review,Cancelled,32,40.63,Locum GP,Community Centre,
+104,6/15/2025,35-49,Follow-up,Cancelled,18,33.64,Practice Nurse,Branch Clinic,Referral Issued
+105,1/7/2025,65+,Vaccination,Completed,17,5.05,Locum GP,Main Practice,Further Tests Required
+106,4/6/2025,65+,Nurse Visit,No-Show,16,59.22,Healthcare Assistant,Main Practice,Further Tests Required
+107,4/19/2025,35-49,Nurse Visit,No-Show,13,38.16,Locum GP,Community Centre,Further Tests Required
+108,2/1/2025,0-17,GP Consultation,Cancelled,7,25.92,Healthcare Assistant,Main Practice,
+109,4/14/2025,18-34,Chronic Care Review,Rescheduled,34,31.67,Practice Nurse,Community Centre,
+110,3/20/2025,50-64,Follow-up,Cancelled,20,19.74,Locum GP,Main Practice,Referral Issued
+111,5/12/2025,0-17,Vaccination,Rescheduled,30,16.49,Practice Nurse,Branch Clinic,Referral Issued
+112,5/7/2025,18-34,Chronic Care Review,Rescheduled,1,42.18,Locum GP,Main Practice,
+113,2/5/2025,0-17,Chronic Care Review,Cancelled,16,10.85,Locum GP,Branch Clinic,Further Tests Required
+114,1/23/2025,50-64,GP Consultation,Completed,25,17.05,Healthcare Assistant,Community Centre,
+115,4/12/2025,65+,GP Consultation,No-Show,23,,Locum GP,Main Practice,Referral Issued
+116,3/3/2025,18-34,Nurse Visit,No-Show,24,32.86,Healthcare Assistant,Branch Clinic,Further Tests Required
+117,6/5/2025,0-17,GP Consultation,Cancelled,38,9.74,Practice Nurse,Main Practice,Resolved
+118,1/11/2025,18-34,GP Consultation,Cancelled,35,26.78,Locum GP,Branch Clinic,Referral Issued
+119,2/13/2025,0-17,Chronic Care Review,Cancelled,22,22.01,Practice Nurse,Branch Clinic,Medication Prescribed
+120,2/21/2025,0-17,Follow-up,Cancelled,23,40.57,Healthcare Assistant,Branch Clinic,Referral Issued
+121,2/7/2025,0-17,Chronic Care Review,Cancelled,,28.22,Practice Nurse,Main Practice,Medication Prescribed
+122,2/15/2025,50-64,Nurse Visit,No-Show,3,49.86,Practice Nurse,Community Centre,Further Tests Required
+123,6/29/2025,35-49,Follow-up,Completed,7,32.28,Practice Nurse,Branch Clinic,Resolved
+124,2/12/2025,35-49,Chronic Care Review,No-Show,40,26.83,Healthcare Assistant,Community Centre,Further Tests Required
+125,1/18/2025,35-49,Nurse Visit,Rescheduled,35,,Healthcare Assistant,Community Centre,Further Tests Required
+126,1/20/2025,0-17,GP Consultation,No-Show,33,5.54,Healthcare Assistant,Community Centre,Medication Prescribed
+127,6/2/2025,18-34,Chronic Care Review,Cancelled,24,23.51,Locum GP,Community Centre,Medication Prescribed
+128,5/22/2025,35-49,Vaccination,No-Show,28,5.17,Healthcare Assistant,Branch Clinic,Resolved
+129,1/19/2025,65+,Nurse Visit,No-Show,40,36.09,Locum GP,Community Centre,
+130,2/2/2025,35-49,Follow-up,No-Show,44,6.74,Healthcare Assistant,Branch Clinic,Referral Issued
+131,4/25/2025,65+,Follow-up,Completed,37,18.98,Locum GP,Branch Clinic,Resolved
+132,3/5/2025,18-34,Vaccination,Cancelled,40,18.62,Locum GP,Community Centre,Referral Issued
+133,4/18/2025,0-17,GP Consultation,No-Show,29,28.46,Healthcare Assistant,Community Centre,Medication Prescribed
+134,2/5/2025,0-17,GP Consultation,Completed,36,11.04,Practice Nurse,Main Practice,Referral Issued
+135,1/2/2025,18-34,GP Consultation,No-Show,38,32.1,Practice Nurse,Branch Clinic,Referral Issued
+136,3/1/2025,35-49,Follow-up,Rescheduled,35,,Locum GP,Community Centre,Medication Prescribed
+137,6/11/2025,0-17,GP Consultation,Cancelled,2,53.86,Healthcare Assistant,Community Centre,Further Tests Required
+138,1/26/2025,18-34,Chronic Care Review,Completed,32,30.44,Locum GP,Community Centre,Medication Prescribed
+139,5/6/2025,35-49,GP Consultation,Rescheduled,24,14.79,Locum GP,Community Centre,Further Tests Required
+140,1/4/2025,65+,GP Consultation,No-Show,40,,Healthcare Assistant,Main Practice,Resolved
+141,1/23/2025,50-64,GP Consultation,Rescheduled,29,6.83,Locum GP,Main Practice,Further Tests Required
+142,4/12/2025,18-34,Nurse Visit,Cancelled,27,41.74,Practice Nurse,Community Centre,
+143,4/3/2025,0-17,Nurse Visit,Cancelled,28,43.39,Locum GP,Main Practice,Referral Issued
+144,1/14/2025,65+,Chronic Care Review,No-Show,17,57.91,Locum GP,Main Practice,Resolved
+145,1/7/2025,0-17,Nurse Visit,No-Show,41,30.68,Practice Nurse,Community Centre,Referral Issued
+146,2/18/2025,0-17,Follow-up,Rescheduled,23,27.22,Practice Nurse,Branch Clinic,Medication Prescribed
+147,5/11/2025,50-64,Follow-up,Cancelled,42,42.54,Practice Nurse,Community Centre,Resolved
+148,4/25/2025,18-34,Follow-up,Completed,37,47.37,Practice Nurse,Branch Clinic,Referral Issued
+149,1/10/2025,65+,Follow-up,Rescheduled,24,57.68,Practice Nurse,Branch Clinic,Further Tests Required
+150,1/17/2025,0-17,Vaccination,Rescheduled,35,51.96,Healthcare Assistant,Community Centre,Resolved
+151,2/24/2025,18-34,Follow-up,Cancelled,45,20.12,Locum GP,Community Centre,Resolved
+152,6/26/2025,50-64,Nurse Visit,No-Show,0,59.73,Healthcare Assistant,Community Centre,Resolved
+153,1/11/2025,65+,Follow-up,No-Show,26,56.75,Practice Nurse,Branch Clinic,Resolved
+154,5/12/2025,18-34,GP Consultation,Completed,22,29.88,Healthcare Assistant,Branch Clinic,Medication Prescribed
+155,1/23/2025,35-49,Vaccination,No-Show,17,59.58,Locum GP,Community Centre,
+156,6/12/2025,18-34,GP Consultation,Cancelled,30,15.48,Healthcare Assistant,Community Centre,Resolved
+157,1/2/2025,65+,GP Consultation,No-Show,8,48.45,Practice Nurse,Branch Clinic,Medication Prescribed
+158,5/16/2025,18-34,Chronic Care Review,Completed,44,,Practice Nurse,Main Practice,Resolved
+159,2/10/2025,65+,Follow-up,Rescheduled,24,11.6,Healthcare Assistant,Community Centre,
+160,2/18/2025,50-64,Nurse Visit,Completed,3,10.95,Practice Nurse,Branch Clinic,Referral Issued
+161,1/22/2025,50-64,Follow-up,Cancelled,21,21.63,Healthcare Assistant,Main Practice,Further Tests Required
+162,1/17/2025,35-49,Vaccination,Completed,39,50.95,Practice Nurse,Branch Clinic,Further Tests Required
+163,3/23/2025,0-17,Vaccination,Rescheduled,31,,Locum GP,Community Centre,Medication Prescribed
+164,1/25/2025,65+,Nurse Visit,Rescheduled,30,54.2,Practice Nurse,Branch Clinic,Resolved
+165,2/24/2025,35-49,GP Consultation,No-Show,8,38.17,Healthcare Assistant,Branch Clinic,Further Tests Required
+166,3/28/2025,50-64,Follow-up,Cancelled,14,34.63,Healthcare Assistant,Branch Clinic,
+167,1/3/2025,0-17,Nurse Visit,Cancelled,39,51.93,Locum GP,Main Practice,Referral Issued
+168,3/27/2025,65+,Chronic Care Review,No-Show,43,42.61,Locum GP,Branch Clinic,Medication Prescribed
+169,3/16/2025,0-17,Follow-up,Cancelled,42,,Practice Nurse,Branch Clinic,Medication Prescribed
+170,3/10/2025,65+,Nurse Visit,Completed,34,41.05,Practice Nurse,Main Practice,Medication Prescribed
+171,2/25/2025,18-34,Chronic Care Review,Cancelled,20,53.91,Healthcare Assistant,Branch Clinic,
+172,5/29/2025,35-49,Vaccination,No-Show,4,48.82,Practice Nurse,Branch Clinic,Resolved
+173,2/25/2025,18-34,Nurse Visit,No-Show,37,27.87,Practice Nurse,Branch Clinic,Medication Prescribed
+174,2/14/2025,18-34,Chronic Care Review,Completed,4,49.31,Healthcare Assistant,Community Centre,Medication Prescribed
+175,6/6/2025,35-49,Chronic Care Review,Completed,42,31.38,Practice Nurse,Community Centre,Further Tests Required
+176,1/5/2025,18-34,GP Consultation,No-Show,19,27.16,Locum GP,Branch Clinic,Resolved
+177,3/28/2025,50-64,Follow-up,Cancelled,33,35.12,Practice Nurse,Main Practice,Referral Issued
+178,3/25/2025,18-34,Nurse Visit,Rescheduled,32,44.97,Practice Nurse,Branch Clinic,Medication Prescribed
+179,2/4/2025,18-34,Follow-up,Completed,,,Practice Nurse,Main Practice,Resolved
+180,5/14/2025,65+,Vaccination,Completed,1,9.95,Practice Nurse,Main Practice,Further Tests Required
+181,1/17/2025,18-34,Follow-up,Rescheduled,0,16.96,Healthcare Assistant,Community Centre,Resolved
+182,1/6/2025,35-49,Follow-up,Completed,4,55.58,Healthcare Assistant,Community Centre,Further Tests Required
+183,6/22/2025,65+,Vaccination,Rescheduled,39,16.62,Practice Nurse,Branch Clinic,Medication Prescribed
+184,4/11/2025,18-34,Chronic Care Review,Rescheduled,4,20.28,Practice Nurse,Branch Clinic,Medication Prescribed
+185,6/5/2025,50-64,Vaccination,No-Show,3,51.91,Locum GP,Branch Clinic,Referral Issued
+186,3/27/2025,35-49,Chronic Care Review,Completed,33,6.7,Locum GP,Branch Clinic,Resolved
+187,4/26/2025,35-49,Nurse Visit,Cancelled,24,43.01,Healthcare Assistant,Branch Clinic,Medication Prescribed
+188,5/20/2025,65+,Chronic Care Review,Rescheduled,38,40.03,Locum GP,Main Practice,Medication Prescribed
+189,5/14/2025,65+,Chronic Care Review,Completed,21,44.51,Locum GP,Community Centre,Referral Issued
+190,1/31/2025,65+,GP Consultation,No-Show,0,37.93,Locum GP,Branch Clinic,Resolved
+191,2/18/2025,50-64,Nurse Visit,No-Show,6,11.12,Practice Nurse,Community Centre,Further Tests Required
+192,3/11/2025,18-34,Vaccination,Rescheduled,4,48.27,Practice Nurse,Branch Clinic,Medication Prescribed
+193,4/8/2025,50-64,Vaccination,Cancelled,33,50.96,Healthcare Assistant,Main Practice,Further Tests Required
+194,6/28/2025,35-49,Nurse Visit,Rescheduled,32,28.18,Locum GP,Branch Clinic,
+195,2/15/2025,35-49,GP Consultation,Rescheduled,,15.55,Healthcare Assistant,Branch Clinic,
+196,5/6/2025,35-49,Nurse Visit,Completed,3,58.86,Locum GP,Branch Clinic,
+197,3/12/2025,35-49,GP Consultation,No-Show,8,42.1,Locum GP,Community Centre,Referral Issued
+198,6/2/2025,18-34,Follow-up,No-Show,31,27.35,Practice Nurse,Main Practice,Further Tests Required
+199,6/27/2025,35-49,Nurse Visit,Rescheduled,36,49.12,Practice Nurse,Main Practice,Resolved
+200,1/28/2025,50-64,Vaccination,Rescheduled,33,58.33,Practice Nurse,Main Practice,Medication Prescribed
+201,6/27/2025,50-64,Vaccination,Cancelled,3,56.36,Healthcare Assistant,Community Centre,Medication Prescribed
+202,1/24/2025,65+,Follow-up,Completed,0,9.38,Locum GP,Community Centre,Resolved
+203,5/23/2025,35-49,Nurse Visit,No-Show,30,48.5,Healthcare Assistant,Community Centre,Resolved
+204,2/18/2025,0-17,GP Consultation,Cancelled,44,38.87,Locum GP,Main Practice,
+205,6/29/2025,50-64,Nurse Visit,Cancelled,14,57.63,Locum GP,Branch Clinic,
+206,3/30/2025,35-49,Vaccination,No-Show,3,58.94,Practice Nurse,Community Centre,Medication Prescribed
+207,1/14/2025,35-49,GP Consultation,Cancelled,43,25.62,Locum GP,Main Practice,Medication Prescribed
+208,1/7/2025,50-64,Nurse Visit,Rescheduled,41,34.92,Practice Nurse,Main Practice,Medication Prescribed
+209,6/18/2025,65+,GP Consultation,Cancelled,34,50.59,Practice Nurse,Main Practice,Medication Prescribed
+210,1/13/2025,0-17,Chronic Care Review,Rescheduled,23,6.15,Locum GP,Main Practice,Medication Prescribed
+211,4/28/2025,18-34,Nurse Visit,No-Show,34,49.09,Healthcare Assistant,Main Practice,Referral Issued
+212,6/22/2025,35-49,Follow-up,Completed,17,8.77,Locum GP,Community Centre,Referral Issued
+213,1/21/2025,65+,Follow-up,Rescheduled,36,7.22,Locum GP,Community Centre,Medication Prescribed
+214,3/13/2025,35-49,GP Consultation,No-Show,33,58.35,Healthcare Assistant,Main Practice,Medication Prescribed
+215,5/3/2025,65+,Follow-up,Rescheduled,16,32.22,Locum GP,Community Centre,
+216,6/24/2025,18-34,GP Consultation,Cancelled,17,38.09,Healthcare Assistant,Main Practice,Referral Issued
+217,3/21/2025,50-64,Vaccination,Completed,35,15.56,Practice Nurse,Community Centre,Referral Issued
+218,3/5/2025,65+,Follow-up,Rescheduled,29,27.65,Healthcare Assistant,Main Practice,Referral Issued
+219,3/11/2025,0-17,Nurse Visit,Cancelled,,24.33,Locum GP,Branch Clinic,Referral Issued
+220,5/23/2025,50-64,Chronic Care Review,No-Show,,43.61,Practice Nurse,Branch Clinic,Referral Issued
+221,5/20/2025,35-49,Vaccination,Cancelled,38,28.44,Locum GP,Main Practice,
+222,6/3/2025,0-17,GP Consultation,No-Show,16,,Practice Nurse,Community Centre,
+223,1/9/2025,35-49,Chronic Care Review,Rescheduled,40,18.15,Healthcare Assistant,Main Practice,Referral Issued
+224,5/9/2025,18-34,Nurse Visit,Rescheduled,7,38.31,Practice Nurse,Main Practice,Further Tests Required
+225,1/21/2025,0-17,Vaccination,Rescheduled,2,56.63,Healthcare Assistant,Main Practice,Medication Prescribed
+226,1/26/2025,18-34,Chronic Care Review,Cancelled,25,42.31,Practice Nurse,Branch Clinic,Further Tests Required
+227,5/29/2025,18-34,Chronic Care Review,Cancelled,45,41.74,Practice Nurse,Main Practice,Referral Issued
+228,6/13/2025,65+,Chronic Care Review,Rescheduled,27,34.0,Practice Nurse,Community Centre,
+229,5/17/2025,65+,Vaccination,Cancelled,,22.24,Healthcare Assistant,Main Practice,Further Tests Required
+230,3/27/2025,18-34,Chronic Care Review,Completed,44,5.03,Healthcare Assistant,Branch Clinic,Medication Prescribed
+231,6/2/2025,0-17,GP Consultation,Cancelled,28,32.33,Healthcare Assistant,Community Centre,Referral Issued
+232,3/10/2025,50-64,Follow-up,Completed,12,21.78,Healthcare Assistant,Main Practice,Further Tests Required
+233,3/15/2025,50-64,Nurse Visit,Cancelled,43,41.34,Locum GP,Branch Clinic,Further Tests Required
+234,5/7/2025,50-64,Follow-up,No-Show,21,55.05,Practice Nurse,Branch Clinic,Further Tests Required
+235,5/14/2025,18-34,Vaccination,Rescheduled,5,55.34,Healthcare Assistant,Community Centre,Medication Prescribed
+236,5/1/2025,35-49,Chronic Care Review,Rescheduled,,13.31,Healthcare Assistant,Community Centre,
+237,4/19/2025,65+,GP Consultation,Completed,23,7.92,Healthcare Assistant,Main Practice,Further Tests Required
+238,4/1/2025,65+,Vaccination,Rescheduled,40,53.04,Healthcare Assistant,Community Centre,Medication Prescribed
+239,5/27/2025,35-49,Follow-up,Rescheduled,38,52.69,Healthcare Assistant,Main Practice,Resolved
+240,2/21/2025,0-17,Nurse Visit,Rescheduled,5,23.57,Practice Nurse,Branch Clinic,Resolved
+241,6/24/2025,35-49,Chronic Care Review,No-Show,14,21.26,Practice Nurse,Community Centre,Further Tests Required
+242,2/11/2025,35-49,Follow-up,Cancelled,12,47.95,Practice Nurse,Community Centre,Resolved
+243,3/23/2025,50-64,Nurse Visit,Completed,,41.49,Practice Nurse,Community Centre,Further Tests Required
+244,6/2/2025,50-64,Chronic Care Review,No-Show,5,9.02,Practice Nurse,Main Practice,Further Tests Required
+245,2/23/2025,35-49,Nurse Visit,Cancelled,1,6.68,Locum GP,Community Centre,Referral Issued
+246,5/12/2025,18-34,Chronic Care Review,Completed,44,9.26,Healthcare Assistant,Community Centre,Further Tests Required
+247,6/29/2025,65+,Follow-up,No-Show,43,18.78,Practice Nurse,Main Practice,Resolved
+248,4/19/2025,65+,Nurse Visit,Cancelled,16,13.26,Healthcare Assistant,Main Practice,Referral Issued
+249,4/29/2025,50-64,GP Consultation,Completed,17,36.15,Practice Nurse,Branch Clinic,
+250,3/23/2025,65+,GP Consultation,Cancelled,9,10.97,Healthcare Assistant,Branch Clinic,Further Tests Required
+251,3/23/2025,65+,Follow-up,Cancelled,19,,Locum GP,Branch Clinic,Referral Issued
+252,6/17/2025,18-34,Chronic Care Review,Completed,35,56.33,Healthcare Assistant,Main Practice,Medication Prescribed
+253,1/20/2025,18-34,Follow-up,Completed,29,18.55,Practice Nurse,Community Centre,Medication Prescribed
+254,4/3/2025,18-34,GP Consultation,Cancelled,26,29.84,Practice Nurse,Community Centre,
+255,1/7/2025,0-17,Vaccination,Completed,1,9.46,Practice Nurse,Main Practice,Medication Prescribed
+256,1/5/2025,18-34,Follow-up,Cancelled,33,46.95,Locum GP,Main Practice,Further Tests Required
+257,3/16/2025,0-17,Chronic Care Review,No-Show,35,7.91,Practice Nurse,Main Practice,Further Tests Required
+258,5/3/2025,65+,Nurse Visit,Rescheduled,1,32.42,Healthcare Assistant,Community Centre,
+259,2/1/2025,35-49,Nurse Visit,Rescheduled,30,26.12,Locum GP,Main Practice,
+260,1/10/2025,35-49,Follow-up,Rescheduled,45,50.72,Healthcare Assistant,Community Centre,Resolved
+261,5/31/2025,35-49,Follow-up,Rescheduled,37,11.18,Healthcare Assistant,Branch Clinic,Referral Issued
+262,1/17/2025,18-34,GP Consultation,Completed,25,15.29,Healthcare Assistant,Main Practice,Medication Prescribed
+263,4/4/2025,35-49,Follow-up,Rescheduled,44,44.15,Locum GP,Branch Clinic,Referral Issued
+264,5/23/2025,18-34,Nurse Visit,Cancelled,,49.67,Locum GP,Branch Clinic,Further Tests Required
+265,6/8/2025,35-49,Chronic Care Review,Completed,27,7.83,Healthcare Assistant,Main Practice,Medication Prescribed
+266,4/10/2025,50-64,GP Consultation,Cancelled,29,20.8,Locum GP,Branch Clinic,Further Tests Required
+267,5/9/2025,35-49,GP Consultation,Rescheduled,3,10.69,Practice Nurse,Branch Clinic,Referral Issued
+268,1/31/2025,35-49,Follow-up,Cancelled,41,54.49,Healthcare Assistant,Main Practice,Resolved
+269,6/12/2025,65+,Follow-up,Rescheduled,9,48.82,Practice Nurse,Branch Clinic,Resolved
+270,3/16/2025,18-34,Follow-up,Completed,31,46.08,Practice Nurse,Branch Clinic,Medication Prescribed
+271,5/27/2025,50-64,Follow-up,Completed,29,38.73,Healthcare Assistant,Branch Clinic,Further Tests Required
+272,4/3/2025,0-17,Follow-up,Rescheduled,,38.89,Practice Nurse,Community Centre,Resolved
+273,4/3/2025,65+,GP Consultation,Rescheduled,8,8.12,Locum GP,Main Practice,
+274,1/15/2025,50-64,Nurse Visit,Completed,34,28.59,Practice Nurse,Branch Clinic,Medication Prescribed
+275,5/1/2025,50-64,Nurse Visit,No-Show,40,57.21,Healthcare Assistant,Main Practice,Further Tests Required
+276,3/16/2025,50-64,Follow-up,Rescheduled,21,21.76,Practice Nurse,Community Centre,Further Tests Required
+277,3/27/2025,65+,GP Consultation,Completed,1,11.95,Healthcare Assistant,Main Practice,Referral Issued
+278,6/24/2025,50-64,Vaccination,Completed,7,21.07,Practice Nurse,Community Centre,Further Tests Required
+279,5/5/2025,0-17,Nurse Visit,Completed,44,,Healthcare Assistant,Main Practice,Resolved
+280,3/4/2025,18-34,GP Consultation,Rescheduled,24,55.6,Locum GP,Community Centre,
+281,1/23/2025,50-64,Chronic Care Review,Rescheduled,,54.65,Practice Nurse,Main Practice,Further Tests Required
+282,5/29/2025,35-49,GP Consultation,Cancelled,,49.04,Locum GP,Main Practice,Further Tests Required
+283,5/27/2025,18-34,Follow-up,No-Show,35,30.31,Practice Nurse,Main Practice,Referral Issued
+284,6/22/2025,0-17,Chronic Care Review,Rescheduled,28,7.94,Practice Nurse,Community Centre,Referral Issued
+285,3/2/2025,50-64,Chronic Care Review,Rescheduled,4,11.98,Healthcare Assistant,Community Centre,Resolved
+286,6/28/2025,0-17,GP Consultation,No-Show,9,13.42,Healthcare Assistant,Main Practice,Referral Issued
+287,1/17/2025,35-49,Vaccination,Completed,30,45.24,Locum GP,Main Practice,Further Tests Required
+288,3/8/2025,35-49,GP Consultation,Rescheduled,16,18.8,Practice Nurse,Main Practice,Further Tests Required
+289,6/2/2025,50-64,Nurse Visit,Cancelled,1,14.36,Healthcare Assistant,Community Centre,Resolved
+290,4/11/2025,65+,Follow-up,Completed,32,54.54,Practice Nurse,Main Practice,Referral Issued
+291,2/4/2025,35-49,GP Consultation,Completed,18,13.41,Locum GP,Branch Clinic,Referral Issued
+292,6/11/2025,50-64,Follow-up,Rescheduled,30,32.01,Practice Nurse,Main Practice,Resolved
+293,4/7/2025,0-17,Follow-up,Rescheduled,4,8.76,Healthcare Assistant,Branch Clinic,Further Tests Required
+294,3/26/2025,35-49,Nurse Visit,Cancelled,28,23.38,Locum GP,Branch Clinic,Further Tests Required
+295,1/23/2025,35-49,Vaccination,Rescheduled,8,55.2,Practice Nurse,Main Practice,Resolved
+296,2/1/2025,35-49,GP Consultation,No-Show,34,50.7,Locum GP,Main Practice,
+297,3/18/2025,65+,Follow-up,No-Show,9,47.67,Practice Nurse,Community Centre,Resolved
+298,6/24/2025,0-17,Nurse Visit,Completed,10,17.99,Healthcare Assistant,Community Centre,Medication Prescribed
+299,2/13/2025,50-64,Vaccination,Rescheduled,,50.93,Practice Nurse,Main Practice,
+300,4/3/2025,65+,Vaccination,Completed,,47.38,Healthcare Assistant,Branch Clinic,
+301,3/22/2025,35-49,Vaccination,No-Show,10,10.42,Healthcare Assistant,Community Centre,Further Tests Required
+302,1/19/2025,50-64,Vaccination,Completed,42,7.42,Locum GP,Community Centre,Medication Prescribed
+303,4/19/2025,0-17,Vaccination,No-Show,30,15.89,Healthcare Assistant,Main Practice,
+304,2/11/2025,0-17,Vaccination,Rescheduled,39,21.73,Practice Nurse,Community Centre,Resolved
+305,1/24/2025,35-49,Nurse Visit,No-Show,12,23.31,Locum GP,Community Centre,
+306,3/17/2025,18-34,Chronic Care Review,Completed,12,47.12,Healthcare Assistant,Branch Clinic,Referral Issued
+307,4/7/2025,0-17,Nurse Visit,No-Show,13,9.62,Practice Nurse,Main Practice,Medication Prescribed
+308,1/1/2025,18-34,Follow-up,Completed,0,23.65,Practice Nurse,Branch Clinic,Referral Issued
+309,4/23/2025,0-17,GP Consultation,Completed,33,44.07,Healthcare Assistant,Branch Clinic,Referral Issued
+310,6/9/2025,35-49,Nurse Visit,Completed,31,25.75,Locum GP,Main Practice,Referral Issued
+311,6/17/2025,50-64,GP Consultation,Completed,7,25.04,Practice Nurse,Main Practice,Resolved
+312,1/12/2025,0-17,Nurse Visit,No-Show,21,,Healthcare Assistant,Community Centre,Referral Issued
+313,3/4/2025,18-34,Follow-up,Completed,18,50.56,Practice Nurse,Main Practice,Medication Prescribed
+314,6/19/2025,0-17,Nurse Visit,No-Show,39,14.11,Locum GP,Main Practice,
+315,2/7/2025,65+,GP Consultation,Completed,23,53.25,Practice Nurse,Branch Clinic,Referral Issued
+316,3/3/2025,18-34,Nurse Visit,Rescheduled,36,8.89,Practice Nurse,Main Practice,Resolved
+317,6/2/2025,65+,Vaccination,No-Show,26,58.57,Practice Nurse,Branch Clinic,Medication Prescribed
+318,4/13/2025,35-49,Vaccination,Completed,26,39.87,Locum GP,Branch Clinic,Further Tests Required
+319,6/18/2025,50-64,Vaccination,No-Show,13,27.99,Locum GP,Main Practice,Resolved
+320,2/18/2025,35-49,Vaccination,Completed,43,9.51,Practice Nurse,Main Practice,Medication Prescribed
+321,1/16/2025,35-49,Chronic Care Review,Cancelled,20,10.62,Locum GP,Main Practice,Referral Issued
+322,3/7/2025,0-17,Nurse Visit,Cancelled,31,26.48,Locum GP,Community Centre,Referral Issued
+323,3/24/2025,0-17,Nurse Visit,No-Show,35,35.07,Practice Nurse,Branch Clinic,Resolved
+324,5/13/2025,0-17,Chronic Care Review,Cancelled,39,51.82,Locum GP,Branch Clinic,
+325,1/16/2025,50-64,Nurse Visit,No-Show,22,5.43,Healthcare Assistant,Community Centre,Medication Prescribed
+326,4/6/2025,0-17,Nurse Visit,Completed,30,21.46,Practice Nurse,Community Centre,Resolved
+327,5/4/2025,65+,Nurse Visit,No-Show,29,51.25,Locum GP,Main Practice,Medication Prescribed
+328,2/8/2025,50-64,GP Consultation,Completed,8,29.62,Practice Nurse,Main Practice,Medication Prescribed
+329,3/5/2025,0-17,Nurse Visit,Rescheduled,31,42.51,Healthcare Assistant,Community Centre,Medication Prescribed
+330,1/21/2025,0-17,Vaccination,No-Show,9,17.37,Locum GP,Main Practice,Resolved
+331,1/18/2025,50-64,Chronic Care Review,Cancelled,10,23.06,Healthcare Assistant,Community Centre,Referral Issued
+332,6/28/2025,65+,GP Consultation,Cancelled,1,48.33,Healthcare Assistant,Branch Clinic,Medication Prescribed
+333,4/14/2025,18-34,Follow-up,Rescheduled,25,,Locum GP,Main Practice,Further Tests Required
+334,2/18/2025,50-64,Vaccination,No-Show,45,55.72,Healthcare Assistant,Community Centre,Referral Issued
+335,1/11/2025,18-34,Chronic Care Review,No-Show,0,51.48,Locum GP,Branch Clinic,
+336,1/4/2025,35-49,Follow-up,Completed,33,24.06,Locum GP,Community Centre,Further Tests Required
+337,1/29/2025,18-34,Chronic Care Review,Rescheduled,8,13.48,Practice Nurse,Community Centre,Resolved
+338,3/22/2025,35-49,GP Consultation,No-Show,25,40.63,Locum GP,Community Centre,Further Tests Required
+339,2/21/2025,18-34,Follow-up,Completed,0,8.47,Locum GP,Main Practice,Resolved
+340,4/1/2025,18-34,Nurse Visit,No-Show,25,8.71,Locum GP,Community Centre,Resolved
+341,6/29/2025,50-64,Chronic Care Review,Cancelled,8,19.74,Healthcare Assistant,Main Practice,Further Tests Required
+342,6/26/2025,18-34,Vaccination,Rescheduled,33,,Practice Nurse,Main Practice,Medication Prescribed
+343,3/28/2025,65+,Nurse Visit,Rescheduled,31,19.54,Practice Nurse,Main Practice,
+344,6/29/2025,65+,Nurse Visit,Rescheduled,,32.24,Locum GP,Main Practice,Medication Prescribed
+345,6/27/2025,0-17,Follow-up,Cancelled,25,31.46,Healthcare Assistant,Branch Clinic,Medication Prescribed
+346,2/10/2025,18-34,Vaccination,Rescheduled,14,10.93,Healthcare Assistant,Main Practice,Referral Issued
+347,1/27/2025,65+,Vaccination,No-Show,42,17.48,Practice Nurse,Main Practice,Resolved
+348,3/18/2025,35-49,GP Consultation,Rescheduled,,22.37,Locum GP,Community Centre,
+349,5/9/2025,0-17,Nurse Visit,Completed,31,47.46,Practice Nurse,Branch Clinic,Resolved
+350,5/4/2025,18-34,GP Consultation,Completed,0,41.44,Practice Nurse,Branch Clinic,Medication Prescribed
+351,1/13/2025,0-17,Nurse Visit,Rescheduled,45,27.5,Locum GP,Community Centre,Further Tests Required
+352,6/26/2025,18-34,GP Consultation,No-Show,32,32.26,Locum GP,Branch Clinic,Referral Issued
+353,5/24/2025,65+,Vaccination,Completed,31,17.82,Practice Nurse,Main Practice,Medication Prescribed
+354,1/9/2025,50-64,Nurse Visit,Cancelled,12,57.9,Healthcare Assistant,Main Practice,
+355,4/28/2025,65+,Nurse Visit,No-Show,44,22.39,Healthcare Assistant,Community Centre,Referral Issued
+356,2/22/2025,0-17,Nurse Visit,No-Show,29,23.83,Locum GP,Main Practice,
+357,6/21/2025,65+,Nurse Visit,No-Show,27,48.68,Practice Nurse,Community Centre,Medication Prescribed
+358,4/11/2025,35-49,Chronic Care Review,Cancelled,19,54.44,Locum GP,Main Practice,Medication Prescribed
+359,4/13/2025,35-49,Nurse Visit,No-Show,42,13.92,Locum GP,Main Practice,Medication Prescribed
+360,6/3/2025,35-49,Follow-up,Rescheduled,14,34.6,Locum GP,Branch Clinic,Medication Prescribed
+361,6/11/2025,0-17,Vaccination,No-Show,16,45.29,Locum GP,Main Practice,Further Tests Required
+362,3/18/2025,35-49,Follow-up,Completed,40,35.03,Healthcare Assistant,Main Practice,Referral Issued
+363,5/6/2025,65+,Nurse Visit,Rescheduled,26,19.07,Locum GP,Community Centre,
+364,6/8/2025,18-34,Vaccination,Completed,12,36.32,Healthcare Assistant,Community Centre,
+365,1/28/2025,35-49,Vaccination,Rescheduled,,23.15,Practice Nurse,Branch Clinic,Resolved
+366,1/5/2025,35-49,Vaccination,Rescheduled,41,12.81,Healthcare Assistant,Branch Clinic,Referral Issued
+367,1/20/2025,0-17,GP Consultation,No-Show,31,,Practice Nurse,Branch Clinic,Referral Issued
+368,4/11/2025,65+,Vaccination,No-Show,26,36.22,Practice Nurse,Main Practice,Referral Issued
+369,4/4/2025,35-49,GP Consultation,Rescheduled,,48.34,Healthcare Assistant,Community Centre,
+370,3/10/2025,50-64,Chronic Care Review,Cancelled,41,34.87,Healthcare Assistant,Branch Clinic,Referral Issued
+371,2/13/2025,0-17,Nurse Visit,Cancelled,42,53.64,Healthcare Assistant,Main Practice,Referral Issued
+372,3/24/2025,18-34,Follow-up,Cancelled,18,12.84,Practice Nurse,Branch Clinic,Medication Prescribed
+373,6/28/2025,65+,GP Consultation,Cancelled,15,18.15,Locum GP,Branch Clinic,Medication Prescribed
+374,6/23/2025,50-64,Vaccination,No-Show,18,27.79,Practice Nurse,Community Centre,Further Tests Required
+375,6/8/2025,18-34,Nurse Visit,Rescheduled,21,34.05,Healthcare Assistant,Branch Clinic,Resolved
+376,3/23/2025,0-17,Chronic Care Review,Completed,39,9.16,Practice Nurse,Community Centre,Referral Issued
+377,3/7/2025,35-49,Nurse Visit,Completed,4,56.15,Locum GP,Branch Clinic,Further Tests Required
+378,3/27/2025,50-64,Chronic Care Review,Completed,9,28.27,Healthcare Assistant,Branch Clinic,
+379,1/20/2025,65+,GP Consultation,Cancelled,5,43.39,Locum GP,Main Practice,Referral Issued
+380,1/9/2025,0-17,Chronic Care Review,Rescheduled,10,43.25,Healthcare Assistant,Branch Clinic,Further Tests Required
+381,2/22/2025,0-17,Chronic Care Review,Cancelled,13,15.87,Practice Nurse,Branch Clinic,Further Tests Required
+382,1/22/2025,65+,Follow-up,Completed,36,39.46,Practice Nurse,Main Practice,Medication Prescribed
+383,4/24/2025,18-34,Follow-up,Cancelled,42,44.43,Locum GP,Branch Clinic,Further Tests Required
+384,4/29/2025,50-64,Nurse Visit,Cancelled,11,27.84,Locum GP,Main Practice,Resolved
+385,4/25/2025,0-17,GP Consultation,Completed,4,50.34,Healthcare Assistant,Main Practice,Further Tests Required
+386,6/15/2025,0-17,Vaccination,Completed,10,14.3,Locum GP,Branch Clinic,Resolved
+387,5/10/2025,35-49,Follow-up,Cancelled,12,58.39,Healthcare Assistant,Community Centre,Medication Prescribed
+388,2/8/2025,18-34,Nurse Visit,Rescheduled,43,15.46,Locum GP,Branch Clinic,Resolved
+389,3/21/2025,65+,Chronic Care Review,No-Show,,22.8,Locum GP,Branch Clinic,Referral Issued
+390,6/18/2025,0-17,Follow-up,Cancelled,31,46.68,Healthcare Assistant,Branch Clinic,Further Tests Required
+391,3/12/2025,0-17,Nurse Visit,Completed,40,38.0,Healthcare Assistant,Main Practice,Medication Prescribed
+392,3/5/2025,50-64,GP Consultation,Rescheduled,43,12.38,Healthcare Assistant,Community Centre,
+393,6/16/2025,0-17,Follow-up,Cancelled,,40.98,Practice Nurse,Branch Clinic,Resolved
+394,3/9/2025,50-64,Nurse Visit,No-Show,45,,Healthcare Assistant,Community Centre,Referral Issued
+395,4/12/2025,35-49,Vaccination,Completed,0,25.82,Locum GP,Community Centre,Further Tests Required
+396,6/27/2025,0-17,Nurse Visit,Completed,18,49.51,Practice Nurse,Community Centre,Referral Issued
+397,1/28/2025,65+,Vaccination,Completed,16,5.62,Practice Nurse,Branch Clinic,
+398,2/16/2025,65+,Chronic Care Review,Completed,42,32.54,Practice Nurse,Branch Clinic,Referral Issued
+399,4/5/2025,65+,Follow-up,No-Show,1,13.08,Practice Nurse,Community Centre,Medication Prescribed
+400,6/2/2025,0-17,Chronic Care Review,Rescheduled,37,15.52,Practice Nurse,Community Centre,Resolved
+401,3/1/2025,65+,GP Consultation,No-Show,28,23.51,Locum GP,Branch Clinic,Referral Issued
+402,4/21/2025,50-64,Nurse Visit,Rescheduled,30,33.82,Locum GP,Community Centre,Resolved
+403,4/29/2025,50-64,Follow-up,No-Show,24,27.43,Locum GP,Branch Clinic,Resolved
+404,6/13/2025,0-17,Chronic Care Review,Completed,35,8.57,Healthcare Assistant,Main Practice,Medication Prescribed
+405,3/30/2025,0-17,GP Consultation,Completed,14,13.39,Locum GP,Community Centre,Referral Issued
+406,5/31/2025,35-49,Chronic Care Review,No-Show,7,12.84,Practice Nurse,Community Centre,Medication Prescribed
+407,4/28/2025,0-17,GP Consultation,No-Show,22,45.33,Practice Nurse,Community Centre,Resolved
+408,6/9/2025,0-17,Nurse Visit,No-Show,25,37.24,Locum GP,Branch Clinic,Further Tests Required
+409,5/4/2025,50-64,Chronic Care Review,Cancelled,11,,Locum GP,Branch Clinic,Referral Issued
+410,2/18/2025,0-17,GP Consultation,Cancelled,36,37.98,Healthcare Assistant,Branch Clinic,Further Tests Required
+411,5/8/2025,35-49,Chronic Care Review,Completed,17,39.07,Practice Nurse,Branch Clinic,Medication Prescribed
+412,1/28/2025,0-17,GP Consultation,Completed,,39.26,Locum GP,Main Practice,Referral Issued
+413,1/31/2025,18-34,Follow-up,No-Show,8,9.04,Locum GP,Main Practice,Resolved
+414,5/7/2025,0-17,Nurse Visit,Rescheduled,6,54.27,Locum GP,Branch Clinic,Medication Prescribed
+415,5/11/2025,65+,Vaccination,No-Show,21,25.12,Healthcare Assistant,Main Practice,Further Tests Required
+416,6/8/2025,35-49,Follow-up,Rescheduled,23,38.0,Practice Nurse,Main Practice,Further Tests Required
+417,6/19/2025,50-64,Chronic Care Review,Completed,0,49.8,Locum GP,Main Practice,Referral Issued
+418,5/27/2025,50-64,Vaccination,Cancelled,39,,Practice Nurse,Branch Clinic,
+419,4/9/2025,35-49,Follow-up,Rescheduled,35,17.86,Practice Nurse,Community Centre,
+420,3/31/2025,35-49,GP Consultation,Rescheduled,21,25.88,Locum GP,Community Centre,Further Tests Required
+421,6/17/2025,18-34,Chronic Care Review,Cancelled,42,53.3,Locum GP,Main Practice,Referral Issued
+422,5/20/2025,35-49,Chronic Care Review,No-Show,6,,Healthcare Assistant,Main Practice,Resolved
+423,3/16/2025,65+,GP Consultation,Cancelled,39,21.02,Practice Nurse,Community Centre,Referral Issued
+424,3/30/2025,0-17,GP Consultation,Completed,0,46.86,Healthcare Assistant,Main Practice,
+425,2/27/2025,65+,Follow-up,Rescheduled,39,49.43,Locum GP,Main Practice,Medication Prescribed
+426,4/27/2025,50-64,Follow-up,Rescheduled,40,27.72,Locum GP,Community Centre,
+427,4/28/2025,0-17,Chronic Care Review,No-Show,25,45.53,Practice Nurse,Branch Clinic,Medication Prescribed
+428,5/11/2025,50-64,Vaccination,No-Show,35,30.15,Practice Nurse,Main Practice,Resolved
+429,5/14/2025,0-17,GP Consultation,Completed,8,27.3,Locum GP,Branch Clinic,Further Tests Required
+430,4/26/2025,18-34,GP Consultation,Rescheduled,43,50.64,Healthcare Assistant,Community Centre,Medication Prescribed
+431,1/24/2025,18-34,Nurse Visit,Rescheduled,11,58.45,Practice Nurse,Main Practice,Resolved
+432,4/25/2025,65+,Follow-up,Rescheduled,36,28.65,Locum GP,Main Practice,Referral Issued
+433,2/22/2025,18-34,Nurse Visit,Cancelled,28,50.57,Healthcare Assistant,Community Centre,Medication Prescribed
+434,4/26/2025,65+,Nurse Visit,Completed,16,13.79,Healthcare Assistant,Branch Clinic,Referral Issued
+435,3/25/2025,35-49,Chronic Care Review,No-Show,26,58.74,Healthcare Assistant,Community Centre,Medication Prescribed
+436,3/8/2025,65+,Chronic Care Review,Cancelled,9,38.06,Practice Nurse,Main Practice,Referral Issued
+437,5/21/2025,65+,GP Consultation,Cancelled,41,59.87,Locum GP,Branch Clinic,Medication Prescribed
+438,2/17/2025,50-64,Follow-up,Rescheduled,7,41.7,Locum GP,Community Centre,Further Tests Required
+439,2/17/2025,65+,Chronic Care Review,No-Show,28,9.31,Healthcare Assistant,Main Practice,Medication Prescribed
+440,6/1/2025,18-34,Vaccination,No-Show,25,53.05,Practice Nurse,Branch Clinic,
+441,3/19/2025,50-64,Follow-up,No-Show,44,39.66,Healthcare Assistant,Main Practice,Resolved
+442,1/31/2025,65+,Nurse Visit,Rescheduled,,36.34,Healthcare Assistant,Main Practice,Referral Issued
+443,2/5/2025,0-17,GP Consultation,Rescheduled,3,,Healthcare Assistant,Main Practice,Medication Prescribed
+444,6/6/2025,18-34,Follow-up,Completed,21,6.67,Healthcare Assistant,Community Centre,Referral Issued
+445,5/21/2025,50-64,Nurse Visit,Cancelled,8,54.43,Healthcare Assistant,Branch Clinic,Resolved
+446,5/18/2025,35-49,Follow-up,Rescheduled,,14.76,Practice Nurse,Branch Clinic,Medication Prescribed
+447,6/19/2025,0-17,Vaccination,No-Show,32,55.49,Practice Nurse,Branch Clinic,Further Tests Required
+448,4/17/2025,65+,GP Consultation,Completed,17,36.06,Practice Nurse,Branch Clinic,Resolved
+449,4/18/2025,50-64,Chronic Care Review,Rescheduled,32,17.99,Healthcare Assistant,Community Centre,Referral Issued
+450,6/23/2025,0-17,GP Consultation,No-Show,2,10.96,Practice Nurse,Branch Clinic,Referral Issued
+451,5/13/2025,65+,Chronic Care Review,Cancelled,25,53.72,Practice Nurse,Branch Clinic,Further Tests Required
+452,5/2/2025,35-49,Chronic Care Review,Rescheduled,41,49.8,Practice Nurse,Branch Clinic,Medication Prescribed
+453,4/12/2025,35-49,Chronic Care Review,No-Show,45,53.63,Practice Nurse,Branch Clinic,Referral Issued
+454,6/28/2025,35-49,Nurse Visit,Completed,44,56.57,Healthcare Assistant,Branch Clinic,Further Tests Required
+455,3/5/2025,0-17,Vaccination,Completed,15,48.16,Practice Nurse,Main Practice,Medication Prescribed
+456,4/6/2025,65+,Vaccination,Rescheduled,15,39.4,Locum GP,Main Practice,Referral Issued
+457,5/30/2025,35-49,Chronic Care Review,Rescheduled,4,53.48,Locum GP,Branch Clinic,Further Tests Required
+458,5/5/2025,0-17,Vaccination,Cancelled,11,54.82,Healthcare Assistant,Branch Clinic,Referral Issued
+459,3/15/2025,18-34,Follow-up,Completed,37,27.07,Locum GP,Branch Clinic,Further Tests Required
+460,3/18/2025,65+,Nurse Visit,Cancelled,,54.49,Practice Nurse,Community Centre,Resolved
+461,4/14/2025,65+,Follow-up,No-Show,,,Practice Nurse,Branch Clinic,Further Tests Required
+462,5/17/2025,50-64,Follow-up,Rescheduled,28,,Practice Nurse,Main Practice,Resolved
+463,3/17/2025,18-34,GP Consultation,Cancelled,6,19.07,Locum GP,Branch Clinic,
+464,4/12/2025,0-17,GP Consultation,No-Show,5,10.1,Healthcare Assistant,Community Centre,
+465,4/6/2025,0-17,Nurse Visit,Cancelled,22,54.24,Practice Nurse,Community Centre,Medication Prescribed
+466,3/9/2025,65+,Chronic Care Review,Rescheduled,12,23.82,Practice Nurse,Main Practice,Further Tests Required
+467,3/8/2025,0-17,GP Consultation,Cancelled,18,16.59,Locum GP,Community Centre,Resolved
+468,1/5/2025,18-34,Vaccination,Cancelled,15,12.7,Practice Nurse,Main Practice,Resolved
+469,3/22/2025,18-34,Chronic Care Review,Rescheduled,1,54.41,Practice Nurse,Community Centre,Further Tests Required
+470,2/8/2025,0-17,Vaccination,No-Show,11,47.93,Practice Nurse,Community Centre,Further Tests Required
+471,3/24/2025,50-64,Vaccination,No-Show,,10.02,Healthcare Assistant,Community Centre,Medication Prescribed
+472,6/10/2025,65+,Nurse Visit,Cancelled,41,48.94,Practice Nurse,Branch Clinic,Resolved
+473,1/3/2025,50-64,Chronic Care Review,Rescheduled,4,48.4,Healthcare Assistant,Main Practice,Medication Prescribed
+474,2/12/2025,35-49,Chronic Care Review,Rescheduled,41,14.27,Healthcare Assistant,Branch Clinic,Medication Prescribed
+475,5/3/2025,35-49,Follow-up,No-Show,0,58.14,Locum GP,Branch Clinic,Referral Issued
+476,3/8/2025,0-17,GP Consultation,Completed,26,27.9,Practice Nurse,Main Practice,Medication Prescribed
+477,5/16/2025,65+,Vaccination,Completed,22,20.9,Locum GP,Community Centre,Further Tests Required
+478,5/6/2025,65+,Vaccination,Cancelled,,43.18,Practice Nurse,Main Practice,Referral Issued
+479,3/26/2025,0-17,Nurse Visit,Cancelled,15,56.73,Healthcare Assistant,Main Practice,Medication Prescribed
+480,1/1/2025,18-34,Nurse Visit,No-Show,19,58.57,Locum GP,Community Centre,
+481,1/4/2025,50-64,Follow-up,Rescheduled,28,38.24,Locum GP,Branch Clinic,
+482,4/23/2025,65+,GP Consultation,No-Show,26,40.69,Healthcare Assistant,Branch Clinic,Referral Issued
+483,2/21/2025,50-64,Follow-up,Rescheduled,5,49.39,Locum GP,Branch Clinic,Referral Issued
+484,6/16/2025,0-17,Chronic Care Review,Cancelled,44,29.38,Locum GP,Branch Clinic,Referral Issued
+485,6/27/2025,35-49,Chronic Care Review,Completed,,43.78,Practice Nurse,Main Practice,
+486,5/18/2025,0-17,Chronic Care Review,Rescheduled,,20.87,Locum GP,Main Practice,
+487,6/14/2025,0-17,GP Consultation,Cancelled,20,47.06,Locum GP,Branch Clinic,Resolved
+488,4/23/2025,18-34,GP Consultation,Cancelled,38,43.07,Practice Nurse,Branch Clinic,
+489,4/20/2025,65+,Chronic Care Review,Rescheduled,22,26.19,Healthcare Assistant,Main Practice,Medication Prescribed
+490,4/30/2025,50-64,Vaccination,Cancelled,8,39.65,Locum GP,Community Centre,Resolved
+491,5/21/2025,18-34,Nurse Visit,Rescheduled,15,,Healthcare Assistant,Branch Clinic,Resolved
+492,4/30/2025,65+,Nurse Visit,No-Show,30,47.62,Locum GP,Main Practice,
+493,4/17/2025,50-64,Chronic Care Review,No-Show,21,,Practice Nurse,Main Practice,Referral Issued
+494,6/26/2025,0-17,Chronic Care Review,No-Show,5,37.86,Practice Nurse,Main Practice,Resolved
+495,6/19/2025,35-49,Nurse Visit,Cancelled,25,27.74,Healthcare Assistant,Main Practice,Medication Prescribed
+496,1/15/2025,18-34,Follow-up,Completed,19,43.42,Practice Nurse,Community Centre,Further Tests Required
+497,1/3/2025,35-49,Nurse Visit,Completed,,19.48,Locum GP,Main Practice,Further Tests Required
+498,3/12/2025,35-49,Vaccination,Cancelled,38,44.31,Healthcare Assistant,Main Practice,Further Tests Required
+499,3/5/2025,65+,Chronic Care Review,Completed,,39.04,Locum GP,Branch Clinic,
+500,5/15/2025,35-49,Nurse Visit,Completed,33,16.96,Locum GP,Branch Clinic,
+501,6/18/2025,35-49,Nurse Visit,Rescheduled,10,21.11,Locum GP,Community Centre,Medication Prescribed
+502,6/2/2025,50-64,Follow-up,Completed,14,20.4,Healthcare Assistant,Main Practice,Resolved
+503,4/12/2025,18-34,Vaccination,Cancelled,36,22.84,Locum GP,Branch Clinic,Resolved
+504,2/7/2025,0-17,Nurse Visit,Rescheduled,17,28.02,Locum GP,Community Centre,Further Tests Required
+505,4/9/2025,18-34,Nurse Visit,Cancelled,5,33.97,Healthcare Assistant,Branch Clinic,Referral Issued
+506,3/23/2025,35-49,Chronic Care Review,Cancelled,6,18.28,Locum GP,Main Practice,Resolved
+507,6/13/2025,0-17,Chronic Care Review,No-Show,30,59.53,Practice Nurse,Branch Clinic,Resolved
+508,2/4/2025,18-34,Vaccination,No-Show,21,8.47,Locum GP,Main Practice,Referral Issued
+509,3/6/2025,0-17,Chronic Care Review,Rescheduled,22,23.56,Healthcare Assistant,Main Practice,Further Tests Required
+510,6/20/2025,18-34,Chronic Care Review,Cancelled,30,27.21,Practice Nurse,Branch Clinic,Referral Issued
+511,1/2/2025,0-17,Chronic Care Review,Cancelled,39,16.2,Practice Nurse,Branch Clinic,Referral Issued
+512,1/6/2025,35-49,GP Consultation,No-Show,10,9.47,Healthcare Assistant,Branch Clinic,Resolved
+513,5/25/2025,65+,Vaccination,Cancelled,15,43.47,Practice Nurse,Main Practice,Medication Prescribed
+514,2/17/2025,50-64,Follow-up,No-Show,39,44.3,Locum GP,Branch Clinic,Medication Prescribed
+515,5/1/2025,0-17,Chronic Care Review,No-Show,12,35.8,Locum GP,Community Centre,Further Tests Required
+516,6/18/2025,50-64,Nurse Visit,Completed,5,24.22,Practice Nurse,Main Practice,Resolved
+517,5/31/2025,18-34,Chronic Care Review,Rescheduled,25,49.0,Practice Nurse,Branch Clinic,Referral Issued
+518,2/26/2025,65+,Chronic Care Review,Cancelled,15,,Healthcare Assistant,Branch Clinic,Further Tests Required
+519,4/12/2025,35-49,GP Consultation,Completed,4,41.33,Practice Nurse,Community Centre,Medication Prescribed
+520,2/1/2025,18-34,Nurse Visit,Completed,17,46.0,Healthcare Assistant,Community Centre,Further Tests Required
+521,3/7/2025,18-34,Chronic Care Review,No-Show,23,13.82,Locum GP,Main Practice,Referral Issued
+522,3/30/2025,18-34,Chronic Care Review,Rescheduled,16,12.08,Healthcare Assistant,Community Centre,
+523,6/12/2025,18-34,Follow-up,Rescheduled,40,45.94,Locum GP,Branch Clinic,
+524,4/3/2025,0-17,Chronic Care Review,Completed,22,55.28,Healthcare Assistant,Branch Clinic,Further Tests Required
+525,3/19/2025,0-17,Chronic Care Review,Rescheduled,23,9.89,Healthcare Assistant,Community Centre,Further Tests Required
+526,4/11/2025,35-49,Vaccination,Completed,38,21.1,Practice Nurse,Community Centre,Referral Issued
+527,4/10/2025,35-49,Vaccination,No-Show,,21.61,Healthcare Assistant,Branch Clinic,Further Tests Required
+528,4/17/2025,65+,Chronic Care Review,Cancelled,29,36.11,Practice Nurse,Community Centre,Further Tests Required
+529,2/13/2025,0-17,Nurse Visit,Completed,37,,Locum GP,Community Centre,Medication Prescribed
+530,3/24/2025,50-64,Follow-up,Completed,,59.72,Healthcare Assistant,Main Practice,Further Tests Required
+531,3/24/2025,18-34,Nurse Visit,No-Show,3,54.45,Practice Nurse,Community Centre,Referral Issued
+532,5/28/2025,18-34,Chronic Care Review,Cancelled,30,23.33,Practice Nurse,Main Practice,Medication Prescribed
+533,6/10/2025,18-34,Nurse Visit,Cancelled,29,10.38,Practice Nurse,Main Practice,
+534,2/8/2025,0-17,Vaccination,No-Show,1,26.27,Practice Nurse,Branch Clinic,Resolved
+535,6/26/2025,35-49,Vaccination,Completed,1,59.38,Healthcare Assistant,Community Centre,Referral Issued
+536,6/8/2025,18-34,Nurse Visit,No-Show,22,10.31,Healthcare Assistant,Branch Clinic,Medication Prescribed
+537,1/21/2025,35-49,GP Consultation,Completed,1,25.48,Locum GP,Main Practice,Resolved
+538,3/3/2025,65+,Chronic Care Review,Cancelled,0,14.44,Practice Nurse,Main Practice,Medication Prescribed
+539,6/2/2025,50-64,Nurse Visit,No-Show,,42.25,Practice Nurse,Branch Clinic,
+540,3/1/2025,18-34,Vaccination,Rescheduled,29,6.13,Locum GP,Branch Clinic,Further Tests Required
+541,2/21/2025,50-64,Chronic Care Review,Completed,2,46.92,Locum GP,Main Practice,Referral Issued
+542,3/13/2025,65+,Follow-up,Rescheduled,41,45.01,Healthcare Assistant,Main Practice,
+543,4/26/2025,65+,Follow-up,Completed,9,24.23,Healthcare Assistant,Community Centre,
+544,2/1/2025,50-64,GP Consultation,Completed,29,48.75,Healthcare Assistant,Main Practice,
+545,4/19/2025,18-34,Vaccination,Cancelled,28,7.93,Locum GP,Branch Clinic,
+546,4/29/2025,50-64,Nurse Visit,Rescheduled,6,39.52,Locum GP,Community Centre,Referral Issued
+547,6/8/2025,0-17,Chronic Care Review,Rescheduled,21,30.09,Practice Nurse,Community Centre,Resolved
+548,5/22/2025,65+,Nurse Visit,Cancelled,33,50.63,Healthcare Assistant,Community Centre,Referral Issued
+549,6/28/2025,50-64,GP Consultation,No-Show,35,38.33,Healthcare Assistant,Community Centre,Resolved
+550,5/19/2025,50-64,Nurse Visit,No-Show,9,34.34,Practice Nurse,Main Practice,Referral Issued
+551,5/17/2025,65+,Nurse Visit,No-Show,27,48.69,Healthcare Assistant,Community Centre,Resolved
+552,2/14/2025,18-34,Chronic Care Review,Cancelled,19,13.35,Practice Nurse,Main Practice,Resolved
+553,2/27/2025,50-64,GP Consultation,Completed,,23.58,Healthcare Assistant,Community Centre,Medication Prescribed
+554,6/7/2025,18-34,Vaccination,Cancelled,35,55.7,Healthcare Assistant,Community Centre,Resolved
+555,4/12/2025,18-34,Nurse Visit,No-Show,38,50.46,Locum GP,Main Practice,Resolved
+556,1/17/2025,0-17,GP Consultation,No-Show,14,20.86,Healthcare Assistant,Branch Clinic,Referral Issued
+557,2/5/2025,0-17,Chronic Care Review,Cancelled,38,7.89,Healthcare Assistant,Community Centre,Resolved
+558,1/26/2025,0-17,Nurse Visit,Completed,13,29.45,Locum GP,Community Centre,Referral Issued
+559,4/8/2025,65+,Follow-up,Completed,12,16.03,Practice Nurse,Main Practice,Medication Prescribed
+560,1/3/2025,65+,Chronic Care Review,Cancelled,14,52.89,Practice Nurse,Community Centre,Resolved
+561,1/3/2025,50-64,Chronic Care Review,Cancelled,8,26.58,Healthcare Assistant,Main Practice,Referral Issued
+562,6/29/2025,0-17,Vaccination,Completed,9,10.63,Practice Nurse,Main Practice,Resolved
+563,3/4/2025,18-34,Chronic Care Review,Cancelled,13,12.13,Locum GP,Main Practice,Further Tests Required
+564,2/25/2025,35-49,Follow-up,Rescheduled,37,52.23,Practice Nurse,Main Practice,Medication Prescribed
+565,2/4/2025,50-64,Chronic Care Review,Completed,5,54.32,Healthcare Assistant,Community Centre,Referral Issued
+566,3/25/2025,65+,Vaccination,No-Show,33,46.91,Practice Nurse,Community Centre,Further Tests Required
+567,2/4/2025,18-34,Chronic Care Review,Completed,11,46.09,Locum GP,Community Centre,Referral Issued
+568,5/7/2025,0-17,Nurse Visit,Cancelled,2,31.21,Healthcare Assistant,Branch Clinic,Resolved
+569,5/2/2025,35-49,Chronic Care Review,Cancelled,7,20.04,Locum GP,Community Centre,Further Tests Required
+570,3/2/2025,0-17,Nurse Visit,Cancelled,45,51.61,Locum GP,Community Centre,Resolved
+571,6/3/2025,35-49,Follow-up,Cancelled,23,19.98,Locum GP,Main Practice,Referral Issued
+572,5/1/2025,35-49,Chronic Care Review,Cancelled,5,22.03,Healthcare Assistant,Main Practice,Medication Prescribed
+573,2/5/2025,0-17,Follow-up,Completed,9,56.32,Healthcare Assistant,Community Centre,Further Tests Required
+574,2/4/2025,0-17,Chronic Care Review,Rescheduled,21,26.8,Locum GP,Main Practice,Further Tests Required
+575,6/19/2025,18-34,Follow-up,Rescheduled,38,10.29,Practice Nurse,Branch Clinic,
+576,6/14/2025,35-49,Vaccination,Rescheduled,,22.26,Healthcare Assistant,Community Centre,
+577,1/20/2025,65+,Follow-up,Cancelled,5,38.79,Practice Nurse,Main Practice,Referral Issued
+578,4/20/2025,0-17,GP Consultation,Rescheduled,28,46.27,Locum GP,Branch Clinic,Resolved
+579,3/15/2025,35-49,GP Consultation,Completed,18,13.01,Healthcare Assistant,Community Centre,Medication Prescribed
+580,3/5/2025,0-17,Nurse Visit,Rescheduled,26,59.3,Locum GP,Branch Clinic,Medication Prescribed
+581,6/15/2025,0-17,Vaccination,Cancelled,31,40.01,Practice Nurse,Branch Clinic,Referral Issued
+582,2/22/2025,18-34,Follow-up,Rescheduled,17,20.1,Healthcare Assistant,Main Practice,Resolved
+583,3/25/2025,18-34,Vaccination,Cancelled,33,52.16,Practice Nurse,Branch Clinic,Medication Prescribed
+584,6/27/2025,50-64,Vaccination,Rescheduled,,41.64,Practice Nurse,Community Centre,Medication Prescribed
+585,1/31/2025,35-49,GP Consultation,Rescheduled,35,56.39,Practice Nurse,Main Practice,
+586,6/22/2025,50-64,Follow-up,Completed,2,,Locum GP,Community Centre,Medication Prescribed
+587,3/21/2025,50-64,Vaccination,Rescheduled,31,35.62,Locum GP,Community Centre,Resolved
+588,6/3/2025,50-64,Nurse Visit,Rescheduled,39,52.57,Locum GP,Branch Clinic,Referral Issued
+589,4/20/2025,0-17,Vaccination,Rescheduled,6,52.64,Practice Nurse,Community Centre,Resolved
+590,6/16/2025,0-17,Vaccination,Rescheduled,21,21.5,Locum GP,Branch Clinic,Medication Prescribed
+591,4/27/2025,65+,GP Consultation,Completed,28,28.64,Practice Nurse,Community Centre,Resolved
+592,3/12/2025,18-34,Chronic Care Review,Completed,17,10.57,Healthcare Assistant,Branch Clinic,Further Tests Required
+593,1/14/2025,65+,Chronic Care Review,Completed,39,,Healthcare Assistant,Branch Clinic,Referral Issued
+594,5/20/2025,65+,GP Consultation,Rescheduled,12,34.88,Practice Nurse,Main Practice,Resolved
+595,2/8/2025,18-34,Vaccination,Cancelled,45,32.32,Practice Nurse,Branch Clinic,Resolved
+596,1/11/2025,50-64,Chronic Care Review,Cancelled,34,45.92,Healthcare Assistant,Main Practice,Referral Issued
+597,2/6/2025,50-64,Nurse Visit,Cancelled,18,35.63,Locum GP,Community Centre,Referral Issued
+598,6/6/2025,50-64,GP Consultation,No-Show,,25.61,Practice Nurse,Branch Clinic,Medication Prescribed
+599,5/31/2025,65+,Chronic Care Review,Completed,31,43.16,Locum GP,Branch Clinic,Medication Prescribed
+600,1/23/2025,35-49,GP Consultation,Cancelled,14,32.69,Practice Nurse,Branch Clinic,Resolved
+601,6/26/2025,0-17,Follow-up,No-Show,45,14.99,Practice Nurse,Community Centre,Further Tests Required
+602,1/5/2025,35-49,GP Consultation,Completed,44,,Healthcare Assistant,Main Practice,Referral Issued
+603,2/1/2025,35-49,Follow-up,Cancelled,2,,Locum GP,Branch Clinic,Referral Issued
+604,3/24/2025,18-34,Nurse Visit,No-Show,22,,Locum GP,Community Centre,Resolved
+605,5/15/2025,65+,GP Consultation,Cancelled,5,31.62,Practice Nurse,Main Practice,Resolved
+606,5/22/2025,18-34,GP Consultation,Rescheduled,42,47.69,Practice Nurse,Main Practice,Medication Prescribed
+607,2/8/2025,50-64,Chronic Care Review,Completed,43,59.39,Practice Nurse,Branch Clinic,
+608,4/22/2025,50-64,Vaccination,No-Show,29,44.0,Healthcare Assistant,Main Practice,Resolved
+609,5/6/2025,0-17,Nurse Visit,Completed,,49.79,Practice Nurse,Main Practice,Referral Issued
+610,3/19/2025,65+,Nurse Visit,Cancelled,9,39.92,Practice Nurse,Branch Clinic,Medication Prescribed
+611,6/1/2025,0-17,Follow-up,No-Show,18,37.15,Healthcare Assistant,Main Practice,Referral Issued
+612,4/30/2025,65+,Follow-up,Completed,,32.85,Practice Nurse,Branch Clinic,Resolved
+613,3/4/2025,35-49,Follow-up,No-Show,,36.89,Practice Nurse,Main Practice,
+614,4/22/2025,65+,Chronic Care Review,Completed,,17.93,Healthcare Assistant,Branch Clinic,Medication Prescribed
+615,1/3/2025,35-49,Follow-up,Rescheduled,26,45.8,Healthcare Assistant,Main Practice,Medication Prescribed
+616,4/28/2025,35-49,Chronic Care Review,Rescheduled,38,55.43,Healthcare Assistant,Main Practice,
+617,1/28/2025,65+,Chronic Care Review,Cancelled,29,39.91,Locum GP,Main Practice,Referral Issued
+618,3/30/2025,35-49,Chronic Care Review,Cancelled,,29.26,Practice Nurse,Main Practice,Medication Prescribed
+619,2/8/2025,35-49,GP Consultation,No-Show,40,29.98,Locum GP,Community Centre,Resolved
+620,1/12/2025,50-64,Vaccination,Cancelled,33,49.84,Locum GP,Branch Clinic,Referral Issued
+621,1/2/2025,35-49,GP Consultation,No-Show,28,49.38,Healthcare Assistant,Main Practice,
+622,2/3/2025,0-17,Follow-up,Completed,8,22.83,Healthcare Assistant,Main Practice,
+623,6/18/2025,50-64,Vaccination,Cancelled,2,24.58,Healthcare Assistant,Main Practice,Medication Prescribed
+624,3/29/2025,50-64,Follow-up,Cancelled,21,45.35,Healthcare Assistant,Main Practice,
+625,5/9/2025,35-49,Nurse Visit,Rescheduled,42,57.61,Healthcare Assistant,Community Centre,Referral Issued
+626,3/31/2025,18-34,GP Consultation,Cancelled,,30.67,Healthcare Assistant,Community Centre,Referral Issued
+627,6/8/2025,18-34,Chronic Care Review,No-Show,41,57.68,Practice Nurse,Community Centre,Medication Prescribed
+628,1/2/2025,35-49,Nurse Visit,Rescheduled,24,43.45,Practice Nurse,Main Practice,Medication Prescribed
+629,3/18/2025,0-17,Vaccination,Cancelled,,7.44,Healthcare Assistant,Main Practice,Referral Issued
+630,2/3/2025,50-64,Vaccination,Rescheduled,44,36.01,Practice Nurse,Main Practice,Referral Issued
+631,5/28/2025,0-17,Vaccination,Rescheduled,0,11.67,Healthcare Assistant,Community Centre,
+632,4/21/2025,50-64,GP Consultation,No-Show,11,21.64,Locum GP,Main Practice,Referral Issued
+633,5/16/2025,50-64,Follow-up,Rescheduled,33,42.69,Healthcare Assistant,Community Centre,Referral Issued
+634,6/15/2025,50-64,Chronic Care Review,Cancelled,43,30.86,Locum GP,Community Centre,Medication Prescribed
+635,3/29/2025,50-64,GP Consultation,Rescheduled,30,12.83,Practice Nurse,Branch Clinic,Referral Issued
+636,3/29/2025,35-49,Vaccination,Completed,3,5.03,Healthcare Assistant,Community Centre,Medication Prescribed
+637,5/23/2025,18-34,Nurse Visit,Completed,44,38.71,Practice Nurse,Community Centre,
+638,1/3/2025,35-49,Chronic Care Review,No-Show,30,39.31,Locum GP,Main Practice,Referral Issued
+639,5/2/2025,50-64,Vaccination,No-Show,28,56.62,Locum GP,Main Practice,
+640,6/10/2025,65+,Nurse Visit,No-Show,,18.29,Locum GP,Branch Clinic,Medication Prescribed
+641,5/17/2025,18-34,Follow-up,Rescheduled,1,,Practice Nurse,Community Centre,Further Tests Required
+642,6/27/2025,65+,Vaccination,Completed,28,18.77,Practice Nurse,Main Practice,Medication Prescribed
+643,3/17/2025,18-34,Chronic Care Review,Rescheduled,16,,Practice Nurse,Branch Clinic,Medication Prescribed
+644,3/23/2025,0-17,Chronic Care Review,Cancelled,4,43.65,Practice Nurse,Main Practice,Medication Prescribed
+645,6/13/2025,0-17,Chronic Care Review,Completed,3,41.71,Locum GP,Branch Clinic,Medication Prescribed
+646,5/30/2025,50-64,Vaccination,Rescheduled,19,14.0,Practice Nurse,Community Centre,Referral Issued
+647,6/19/2025,65+,Chronic Care Review,Completed,19,49.78,Healthcare Assistant,Branch Clinic,
+648,5/16/2025,18-34,Nurse Visit,No-Show,2,45.24,Healthcare Assistant,Community Centre,Medication Prescribed
+649,3/22/2025,0-17,Nurse Visit,Cancelled,33,50.05,Healthcare Assistant,Main Practice,Medication Prescribed
+650,4/29/2025,50-64,Follow-up,No-Show,45,25.46,Practice Nurse,Main Practice,Resolved
+651,4/5/2025,65+,GP Consultation,Cancelled,33,30.94,Practice Nurse,Main Practice,
+652,1/24/2025,18-34,Follow-up,Completed,45,24.68,Locum GP,Branch Clinic,Resolved
+653,2/12/2025,50-64,Follow-up,No-Show,,26.12,Practice Nurse,Main Practice,
+654,3/2/2025,35-49,Chronic Care Review,Rescheduled,25,57.92,Practice Nurse,Community Centre,Referral Issued
+655,3/17/2025,65+,GP Consultation,No-Show,1,57.3,Healthcare Assistant,Main Practice,Resolved
+656,5/23/2025,0-17,Vaccination,Cancelled,15,10.49,Practice Nurse,Main Practice,Medication Prescribed
+657,5/13/2025,35-49,Chronic Care Review,No-Show,36,,Healthcare Assistant,Branch Clinic,
+658,1/29/2025,65+,GP Consultation,Completed,44,55.92,Healthcare Assistant,Community Centre,Referral Issued
+659,3/15/2025,50-64,Nurse Visit,Completed,9,44.39,Practice Nurse,Branch Clinic,Further Tests Required
+660,2/9/2025,18-34,Vaccination,Rescheduled,4,8.38,Locum GP,Community Centre,Further Tests Required
+661,4/23/2025,50-64,Chronic Care Review,No-Show,33,32.75,Healthcare Assistant,Branch Clinic,Resolved
+662,6/27/2025,35-49,Vaccination,Cancelled,34,22.06,Locum GP,Branch Clinic,Further Tests Required
+663,3/21/2025,50-64,Follow-up,Cancelled,42,53.27,Practice Nurse,Main Practice,Medication Prescribed
+664,6/7/2025,18-34,Chronic Care Review,Rescheduled,37,18.76,Locum GP,Community Centre,Medication Prescribed
+665,1/26/2025,18-34,Follow-up,No-Show,10,,Healthcare Assistant,Community Centre,Further Tests Required
+666,5/2/2025,35-49,Follow-up,Rescheduled,1,11.44,Healthcare Assistant,Community Centre,Resolved
+667,3/20/2025,35-49,GP Consultation,Completed,26,45.89,Locum GP,Branch Clinic,Resolved
+668,1/11/2025,18-34,Follow-up,Completed,15,10.15,Healthcare Assistant,Branch Clinic,Further Tests Required
+669,5/16/2025,18-34,GP Consultation,Cancelled,44,20.68,Locum GP,Branch Clinic,Referral Issued
+670,5/26/2025,65+,GP Consultation,Cancelled,43,28.44,Healthcare Assistant,Branch Clinic,Resolved
+671,4/28/2025,65+,Vaccination,Rescheduled,36,24.2,Locum GP,Branch Clinic,Resolved
+672,1/23/2025,50-64,Nurse Visit,No-Show,30,18.88,Healthcare Assistant,Main Practice,Further Tests Required
+673,4/26/2025,65+,Nurse Visit,Cancelled,30,19.68,Practice Nurse,Main Practice,Referral Issued
+674,5/28/2025,35-49,Nurse Visit,Rescheduled,16,21.28,Healthcare Assistant,Branch Clinic,Further Tests Required
+675,6/18/2025,35-49,Nurse Visit,Completed,12,52.03,Practice Nurse,Community Centre,Referral Issued
+676,2/15/2025,0-17,Nurse Visit,Rescheduled,14,41.94,Practice Nurse,Community Centre,Medication Prescribed
+677,1/20/2025,0-17,Follow-up,Cancelled,27,51.78,Locum GP,Main Practice,
+678,3/4/2025,50-64,GP Consultation,Completed,36,35.93,Healthcare Assistant,Main Practice,Referral Issued
+679,5/27/2025,65+,Follow-up,Completed,23,7.79,Healthcare Assistant,Community Centre,Medication Prescribed
+680,3/26/2025,65+,Nurse Visit,Cancelled,16,58.51,Healthcare Assistant,Branch Clinic,Further Tests Required
+681,5/6/2025,50-64,Nurse Visit,Completed,17,58.18,Healthcare Assistant,Main Practice,
+682,5/31/2025,65+,Chronic Care Review,Rescheduled,32,49.83,Locum GP,Main Practice,Resolved
+683,1/19/2025,35-49,Follow-up,Rescheduled,28,15.37,Locum GP,Branch Clinic,Further Tests Required
+684,4/17/2025,18-34,Chronic Care Review,Rescheduled,25,36.87,Healthcare Assistant,Branch Clinic,Medication Prescribed
+685,2/8/2025,18-34,GP Consultation,No-Show,41,28.78,Practice Nurse,Main Practice,Further Tests Required
+686,4/19/2025,50-64,Vaccination,No-Show,17,9.75,Practice Nurse,Main Practice,Referral Issued
+687,3/7/2025,35-49,Vaccination,No-Show,39,40.98,Locum GP,Branch Clinic,Resolved
+688,4/4/2025,50-64,GP Consultation,Completed,12,54.3,Locum GP,Community Centre,Referral Issued
+689,5/23/2025,0-17,Vaccination,No-Show,36,22.72,Healthcare Assistant,Community Centre,Referral Issued
+690,4/2/2025,65+,Vaccination,No-Show,30,32.51,Locum GP,Main Practice,Referral Issued
+691,3/1/2025,0-17,Chronic Care Review,Completed,8,21.26,Practice Nurse,Community Centre,Resolved
+692,2/7/2025,35-49,Chronic Care Review,Completed,24,26.78,Practice Nurse,Branch Clinic,Referral Issued
+693,4/9/2025,65+,Follow-up,Cancelled,44,19.35,Locum GP,Community Centre,Resolved
+694,3/8/2025,65+,Nurse Visit,Completed,4,42.44,Healthcare Assistant,Community Centre,Resolved
+695,3/5/2025,18-34,Vaccination,Cancelled,4,18.7,Healthcare Assistant,Community Centre,Further Tests Required
+696,3/26/2025,0-17,GP Consultation,Rescheduled,38,,Locum GP,Community Centre,Medication Prescribed
+697,5/23/2025,35-49,Nurse Visit,Rescheduled,32,25.81,Healthcare Assistant,Community Centre,Resolved
+698,1/21/2025,50-64,Chronic Care Review,Rescheduled,41,32.36,Locum GP,Main Practice,Resolved
+699,6/16/2025,35-49,Vaccination,Completed,31,7.09,Practice Nurse,Main Practice,Referral Issued
+700,6/26/2025,0-17,Chronic Care Review,Cancelled,37,44.49,Locum GP,Main Practice,Medication Prescribed
+701,4/10/2025,0-17,Chronic Care Review,Cancelled,12,39.34,Healthcare Assistant,Branch Clinic,Further Tests Required
+702,2/27/2025,0-17,Chronic Care Review,Completed,41,47.11,Locum GP,Branch Clinic,Referral Issued
+703,4/19/2025,50-64,Nurse Visit,Rescheduled,19,59.11,Healthcare Assistant,Branch Clinic,Referral Issued
+704,3/7/2025,65+,Nurse Visit,Cancelled,32,58.71,Healthcare Assistant,Main Practice,Medication Prescribed
+705,1/4/2025,65+,Nurse Visit,Rescheduled,40,47.84,Locum GP,Community Centre,Medication Prescribed
+706,4/29/2025,0-17,GP Consultation,Cancelled,7,42.48,Practice Nurse,Main Practice,Referral Issued
+707,1/29/2025,35-49,Vaccination,Cancelled,2,57.57,Locum GP,Community Centre,Further Tests Required
+708,1/8/2025,35-49,Vaccination,Rescheduled,,,Healthcare Assistant,Community Centre,Medication Prescribed
+709,1/5/2025,35-49,Nurse Visit,Cancelled,41,,Healthcare Assistant,Community Centre,
+710,4/11/2025,18-34,Vaccination,No-Show,44,44.15,Practice Nurse,Main Practice,Medication Prescribed
+711,5/9/2025,65+,Vaccination,Cancelled,20,10.67,Locum GP,Community Centre,Referral Issued
+712,6/2/2025,0-17,Chronic Care Review,Cancelled,36,37.52,Practice Nurse,Main Practice,Resolved
+713,5/23/2025,35-49,GP Consultation,Cancelled,27,11.69,Practice Nurse,Branch Clinic,Referral Issued
+714,6/28/2025,65+,Follow-up,No-Show,38,58.56,Practice Nurse,Branch Clinic,Further Tests Required
+715,3/24/2025,35-49,Vaccination,Rescheduled,3,43.24,Practice Nurse,Main Practice,Medication Prescribed
+716,1/13/2025,65+,GP Consultation,Cancelled,29,5.76,Locum GP,Branch Clinic,Resolved
+717,6/20/2025,65+,Nurse Visit,No-Show,30,17.34,Healthcare Assistant,Community Centre,
+718,6/4/2025,18-34,Follow-up,Rescheduled,27,10.85,Practice Nurse,Branch Clinic,Resolved
+719,2/22/2025,50-64,Nurse Visit,Rescheduled,,,Healthcare Assistant,Branch Clinic,Referral Issued
+720,6/17/2025,35-49,Nurse Visit,Cancelled,37,33.58,Locum GP,Branch Clinic,Medication Prescribed
+721,1/14/2025,65+,Follow-up,Rescheduled,,55.65,Healthcare Assistant,Branch Clinic,Referral Issued
+722,2/3/2025,65+,Follow-up,Cancelled,,46.57,Locum GP,Branch Clinic,Referral Issued
+723,3/22/2025,18-34,Vaccination,No-Show,45,53.23,Practice Nurse,Main Practice,Further Tests Required
+724,3/1/2025,35-49,Vaccination,Cancelled,9,13.28,Practice Nurse,Main Practice,Medication Prescribed
+725,5/24/2025,35-49,Nurse Visit,No-Show,14,37.4,Locum GP,Branch Clinic,Medication Prescribed
+726,2/3/2025,18-34,Vaccination,Rescheduled,16,45.85,Practice Nurse,Community Centre,Medication Prescribed
+727,5/23/2025,0-17,GP Consultation,Rescheduled,45,51.89,Locum GP,Branch Clinic,Further Tests Required
+728,2/6/2025,0-17,Chronic Care Review,Completed,10,39.66,Practice Nurse,Main Practice,Referral Issued
+729,1/20/2025,50-64,GP Consultation,No-Show,15,,Locum GP,Branch Clinic,
+730,6/28/2025,18-34,Nurse Visit,Rescheduled,36,55.53,Healthcare Assistant,Branch Clinic,Further Tests Required
+731,3/21/2025,18-34,GP Consultation,Completed,27,55.01,Healthcare Assistant,Branch Clinic,Referral Issued
+732,2/5/2025,65+,Vaccination,Rescheduled,39,56.01,Healthcare Assistant,Main Practice,Resolved
+733,1/14/2025,65+,Chronic Care Review,Completed,10,22.36,Healthcare Assistant,Community Centre,Further Tests Required
+734,3/25/2025,65+,Follow-up,Cancelled,,18.77,Locum GP,Community Centre,
+735,4/7/2025,18-34,GP Consultation,Completed,,15.54,Locum GP,Branch Clinic,Further Tests Required
+736,5/12/2025,65+,Nurse Visit,Rescheduled,6,18.76,Healthcare Assistant,Community Centre,Further Tests Required
+737,5/26/2025,50-64,GP Consultation,Rescheduled,24,33.81,Healthcare Assistant,Main Practice,Medication Prescribed
+738,6/23/2025,0-17,Chronic Care Review,Rescheduled,,56.54,Healthcare Assistant,Community Centre,Referral Issued
+739,2/4/2025,50-64,Follow-up,Rescheduled,2,,Practice Nurse,Branch Clinic,Referral Issued
+740,5/29/2025,18-34,GP Consultation,No-Show,30,15.68,Locum GP,Community Centre,Medication Prescribed
+741,3/4/2025,50-64,Follow-up,Rescheduled,23,48.96,Healthcare Assistant,Branch Clinic,Medication Prescribed
+742,5/17/2025,18-34,Chronic Care Review,Cancelled,40,30.16,Locum GP,Branch Clinic,Medication Prescribed
+743,1/28/2025,0-17,Vaccination,Completed,7,34.71,Practice Nurse,Community Centre,Resolved
+744,2/11/2025,50-64,Nurse Visit,Cancelled,24,53.47,Locum GP,Main Practice,Referral Issued
+745,4/6/2025,65+,Vaccination,Completed,43,50.21,Practice Nurse,Main Practice,Referral Issued
+746,5/18/2025,35-49,Chronic Care Review,Completed,6,42.66,Locum GP,Main Practice,Resolved
+747,2/4/2025,65+,Chronic Care Review,No-Show,40,41.67,Practice Nurse,Main Practice,Medication Prescribed
+748,3/28/2025,35-49,Follow-up,Rescheduled,37,,Practice Nurse,Main Practice,Resolved
+749,5/21/2025,65+,Vaccination,Rescheduled,42,9.36,Practice Nurse,Main Practice,Further Tests Required
+750,4/14/2025,65+,Nurse Visit,Rescheduled,,33.33,Practice Nurse,Community Centre,Resolved
+751,2/10/2025,0-17,Chronic Care Review,Cancelled,28,58.25,Healthcare Assistant,Community Centre,Further Tests Required
+752,4/29/2025,18-34,Follow-up,Rescheduled,,46.78,Practice Nurse,Branch Clinic,Medication Prescribed
+753,2/13/2025,0-17,Nurse Visit,Cancelled,21,31.04,Locum GP,Branch Clinic,Resolved
+754,6/29/2025,0-17,Follow-up,Rescheduled,43,15.03,Locum GP,Community Centre,Medication Prescribed
+755,1/29/2025,35-49,Nurse Visit,Cancelled,,31.85,Healthcare Assistant,Branch Clinic,Resolved
+756,2/5/2025,65+,Vaccination,Rescheduled,41,19.54,Practice Nurse,Branch Clinic,Referral Issued
+757,2/20/2025,18-34,Vaccination,Completed,7,58.45,Locum GP,Branch Clinic,Further Tests Required
+758,3/14/2025,18-34,Vaccination,Completed,18,20.63,Practice Nurse,Branch Clinic,Referral Issued
+759,6/8/2025,18-34,Chronic Care Review,No-Show,37,38.39,Locum GP,Branch Clinic,Further Tests Required
+760,4/21/2025,18-34,Follow-up,Cancelled,11,9.27,Practice Nurse,Community Centre,Resolved
+761,5/16/2025,18-34,Follow-up,Cancelled,1,55.17,Practice Nurse,Main Practice,Further Tests Required
+762,5/8/2025,65+,GP Consultation,Completed,34,24.42,Healthcare Assistant,Branch Clinic,Medication Prescribed
+763,5/11/2025,50-64,Vaccination,Cancelled,15,47.52,Practice Nurse,Main Practice,Further Tests Required
+764,5/13/2025,35-49,GP Consultation,Rescheduled,3,31.48,Healthcare Assistant,Community Centre,Further Tests Required
+765,1/7/2025,35-49,Chronic Care Review,Completed,34,30.95,Healthcare Assistant,Main Practice,Further Tests Required
+766,4/10/2025,35-49,Chronic Care Review,Completed,16,51.61,Locum GP,Community Centre,Referral Issued
+767,5/19/2025,50-64,Vaccination,Completed,15,26.55,Healthcare Assistant,Main Practice,
+768,2/20/2025,50-64,Nurse Visit,No-Show,22,7.44,Locum GP,Community Centre,Medication Prescribed
+769,5/30/2025,35-49,Nurse Visit,Cancelled,3,59.92,Practice Nurse,Branch Clinic,Further Tests Required
+770,1/7/2025,35-49,Follow-up,Rescheduled,15,39.93,Practice Nurse,Community Centre,Medication Prescribed
+771,2/7/2025,0-17,Nurse Visit,Completed,39,58.22,Locum GP,Main Practice,Resolved
+772,6/4/2025,35-49,GP Consultation,Completed,21,11.35,Healthcare Assistant,Branch Clinic,Further Tests Required
+773,6/13/2025,65+,Chronic Care Review,Cancelled,3,27.34,Locum GP,Community Centre,Referral Issued
+774,3/29/2025,0-17,Vaccination,Cancelled,5,10.07,Healthcare Assistant,Main Practice,Further Tests Required
+775,2/22/2025,0-17,Chronic Care Review,Cancelled,15,20.42,Healthcare Assistant,Community Centre,Resolved
+776,3/11/2025,65+,GP Consultation,Completed,26,41.44,Healthcare Assistant,Branch Clinic,Medication Prescribed
+777,5/14/2025,18-34,GP Consultation,Rescheduled,7,21.38,Locum GP,Branch Clinic,
+778,3/10/2025,35-49,GP Consultation,Rescheduled,25,36.91,Practice Nurse,Main Practice,Resolved
+779,4/14/2025,65+,GP Consultation,No-Show,34,44.37,Practice Nurse,Community Centre,Medication Prescribed
+780,4/27/2025,0-17,Nurse Visit,Cancelled,37,32.96,Healthcare Assistant,Main Practice,Referral Issued
+781,1/28/2025,65+,Nurse Visit,Cancelled,40,23.8,Locum GP,Community Centre,Resolved
+782,5/13/2025,0-17,Follow-up,Completed,22,42.33,Locum GP,Branch Clinic,Resolved
+783,6/18/2025,0-17,Chronic Care Review,No-Show,42,,Locum GP,Community Centre,Further Tests Required
+784,5/21/2025,0-17,Vaccination,No-Show,44,9.03,Locum GP,Community Centre,Resolved
+785,2/23/2025,65+,Chronic Care Review,No-Show,17,49.61,Practice Nurse,Branch Clinic,Referral Issued
+786,5/23/2025,65+,Follow-up,Rescheduled,7,41.01,Locum GP,Branch Clinic,Referral Issued
+787,3/19/2025,18-34,Chronic Care Review,Cancelled,,49.33,Healthcare Assistant,Community Centre,
+788,5/16/2025,50-64,Nurse Visit,Cancelled,27,20.24,Practice Nurse,Community Centre,
+789,2/18/2025,65+,GP Consultation,Completed,28,37.59,Locum GP,Branch Clinic,Medication Prescribed
+790,6/13/2025,65+,Chronic Care Review,Rescheduled,45,28.13,Locum GP,Main Practice,Further Tests Required
+791,1/3/2025,0-17,Nurse Visit,Cancelled,34,11.64,Locum GP,Main Practice,Resolved
+792,1/19/2025,65+,Nurse Visit,Completed,8,37.12,Practice Nurse,Branch Clinic,Further Tests Required
+793,1/30/2025,65+,Nurse Visit,Completed,8,42.46,Practice Nurse,Branch Clinic,Medication Prescribed
+794,6/16/2025,35-49,GP Consultation,No-Show,41,24.26,Locum GP,Main Practice,Referral Issued
+795,3/26/2025,50-64,Nurse Visit,No-Show,34,9.53,Practice Nurse,Community Centre,Resolved
+796,5/24/2025,65+,Chronic Care Review,Cancelled,32,9.4,Locum GP,Branch Clinic,Medication Prescribed
+797,3/28/2025,18-34,Chronic Care Review,No-Show,27,32.11,Practice Nurse,Community Centre,Resolved
+798,5/28/2025,50-64,Chronic Care Review,Completed,,24.24,Practice Nurse,Community Centre,Referral Issued
+799,3/20/2025,50-64,Nurse Visit,Cancelled,22,12.31,Healthcare Assistant,Main Practice,Further Tests Required
+800,2/28/2025,18-34,Chronic Care Review,Cancelled,24,38.67,Healthcare Assistant,Branch Clinic,Referral Issued
+801,6/2/2025,50-64,Nurse Visit,Cancelled,43,37.55,Healthcare Assistant,Branch Clinic,Further Tests Required
+802,4/12/2025,65+,Nurse Visit,Completed,33,19.09,Locum GP,Main Practice,Medication Prescribed
+803,3/5/2025,35-49,Vaccination,Rescheduled,19,52.97,Healthcare Assistant,Branch Clinic,
+804,1/20/2025,65+,Vaccination,No-Show,,58.29,Healthcare Assistant,Main Practice,Further Tests Required
+805,5/5/2025,35-49,Nurse Visit,Rescheduled,23,41.98,Healthcare Assistant,Branch Clinic,Referral Issued
+806,3/14/2025,0-17,Vaccination,Cancelled,,36.01,Practice Nurse,Branch Clinic,Medication Prescribed
+807,5/15/2025,0-17,GP Consultation,Cancelled,25,57.58,Healthcare Assistant,Community Centre,Medication Prescribed
+808,6/9/2025,0-17,Vaccination,Cancelled,11,5.78,Healthcare Assistant,Community Centre,Referral Issued
+809,3/18/2025,18-34,Vaccination,Cancelled,4,52.31,Healthcare Assistant,Community Centre,Referral Issued
+810,6/26/2025,65+,Vaccination,Cancelled,,28.16,Healthcare Assistant,Main Practice,Further Tests Required
+811,1/30/2025,65+,Nurse Visit,No-Show,26,44.65,Locum GP,Main Practice,Resolved
+812,4/4/2025,35-49,GP Consultation,Cancelled,0,8.91,Practice Nurse,Branch Clinic,Medication Prescribed
+813,2/11/2025,0-17,Chronic Care Review,Cancelled,33,,Practice Nurse,Community Centre,Medication Prescribed
+814,6/2/2025,65+,Nurse Visit,Rescheduled,9,57.18,Practice Nurse,Branch Clinic,Referral Issued
+815,5/26/2025,0-17,Nurse Visit,Cancelled,38,,Healthcare Assistant,Main Practice,Resolved
+816,4/26/2025,0-17,Follow-up,Rescheduled,26,49.55,Healthcare Assistant,Branch Clinic,
+817,2/21/2025,0-17,GP Consultation,Completed,35,33.18,Practice Nurse,Community Centre,Resolved
+818,3/17/2025,18-34,Follow-up,Completed,39,29.44,Healthcare Assistant,Community Centre,Resolved
+819,6/4/2025,50-64,Vaccination,Cancelled,21,35.09,Locum GP,Main Practice,Further Tests Required
+820,3/30/2025,35-49,Vaccination,Cancelled,7,32.19,Practice Nurse,Main Practice,Referral Issued
+821,3/31/2025,35-49,Nurse Visit,Completed,15,9.33,Practice Nurse,Main Practice,Medication Prescribed
+822,1/12/2025,0-17,Chronic Care Review,Cancelled,7,22.87,Locum GP,Community Centre,Further Tests Required
+823,4/22/2025,50-64,GP Consultation,Completed,32,9.17,Practice Nurse,Community Centre,Resolved
+824,3/13/2025,18-34,GP Consultation,Cancelled,24,59.25,Locum GP,Community Centre,Referral Issued
+825,1/13/2025,35-49,Nurse Visit,Completed,,16.79,Locum GP,Community Centre,Further Tests Required
+826,3/15/2025,35-49,GP Consultation,Cancelled,44,49.11,Locum GP,Branch Clinic,
+827,4/19/2025,35-49,Chronic Care Review,Completed,5,59.58,Locum GP,Community Centre,Resolved
+828,6/10/2025,18-34,GP Consultation,Cancelled,14,10.26,Locum GP,Main Practice,Further Tests Required
+829,1/16/2025,35-49,Vaccination,No-Show,5,42.86,Healthcare Assistant,Branch Clinic,
+830,5/27/2025,18-34,Nurse Visit,Rescheduled,24,11.54,Locum GP,Branch Clinic,Further Tests Required
+831,6/5/2025,50-64,Chronic Care Review,Completed,12,,Practice Nurse,Community Centre,Further Tests Required
+832,5/8/2025,0-17,Nurse Visit,Rescheduled,5,39.76,Practice Nurse,Branch Clinic,Resolved
+833,4/11/2025,35-49,Vaccination,No-Show,11,42.17,Practice Nurse,Community Centre,Further Tests Required
+834,2/1/2025,50-64,Vaccination,Rescheduled,4,49.14,Healthcare Assistant,Community Centre,Referral Issued
+835,1/8/2025,50-64,Nurse Visit,Cancelled,18,14.21,Practice Nurse,Community Centre,Resolved
+836,3/4/2025,35-49,GP Consultation,Rescheduled,19,19.1,Healthcare Assistant,Branch Clinic,Referral Issued
+837,4/7/2025,18-34,GP Consultation,Rescheduled,45,46.59,Practice Nurse,Branch Clinic,Further Tests Required
+838,3/28/2025,50-64,Nurse Visit,No-Show,6,31.46,Locum GP,Main Practice,Medication Prescribed
+839,6/26/2025,18-34,Follow-up,Completed,1,31.22,Practice Nurse,Community Centre,
+840,5/4/2025,35-49,Chronic Care Review,Rescheduled,26,57.57,Practice Nurse,Community Centre,Resolved
+841,3/21/2025,65+,Nurse Visit,Cancelled,,27.77,Healthcare Assistant,Main Practice,Referral Issued
+842,6/24/2025,18-34,Chronic Care Review,No-Show,32,48.22,Healthcare Assistant,Community Centre,Referral Issued
+843,1/3/2025,0-17,Nurse Visit,Completed,5,6.05,Healthcare Assistant,Main Practice,Medication Prescribed
+844,2/15/2025,18-34,Chronic Care Review,Cancelled,,28.09,Practice Nurse,Main Practice,
+845,6/29/2025,18-34,Chronic Care Review,Completed,43,43.9,Practice Nurse,Community Centre,Further Tests Required
+846,4/25/2025,65+,Nurse Visit,Completed,4,12.04,Practice Nurse,Main Practice,Referral Issued
+847,6/10/2025,18-34,Follow-up,Completed,15,28.66,Locum GP,Main Practice,Resolved
+848,2/4/2025,18-34,Chronic Care Review,Rescheduled,,18.78,Healthcare Assistant,Main Practice,
+849,1/12/2025,50-64,Nurse Visit,Cancelled,39,19.3,Practice Nurse,Branch Clinic,Referral Issued
+850,2/12/2025,0-17,GP Consultation,No-Show,35,18.32,Healthcare Assistant,Main Practice,Further Tests Required
+851,1/31/2025,0-17,Chronic Care Review,Completed,5,18.68,Healthcare Assistant,Branch Clinic,Referral Issued
+852,5/15/2025,35-49,Follow-up,Rescheduled,,31.15,Healthcare Assistant,Main Practice,Further Tests Required
+853,3/14/2025,35-49,Nurse Visit,Rescheduled,44,46.1,Practice Nurse,Community Centre,
+854,5/11/2025,0-17,GP Consultation,Rescheduled,2,39.8,Practice Nurse,Main Practice,
+855,2/16/2025,35-49,Follow-up,Completed,38,5.01,Healthcare Assistant,Main Practice,Medication Prescribed
+856,6/29/2025,18-34,Follow-up,Completed,31,22.54,Healthcare Assistant,Main Practice,Medication Prescribed
+857,2/24/2025,18-34,GP Consultation,No-Show,4,41.78,Healthcare Assistant,Branch Clinic,Further Tests Required
+858,4/2/2025,18-34,Vaccination,Completed,,12.45,Healthcare Assistant,Community Centre,
+859,1/22/2025,50-64,Vaccination,Completed,39,14.34,Locum GP,Main Practice,Referral Issued
+860,3/14/2025,0-17,Follow-up,No-Show,0,33.35,Healthcare Assistant,Community Centre,Referral Issued
+861,6/13/2025,18-34,GP Consultation,No-Show,34,50.98,Healthcare Assistant,Main Practice,Medication Prescribed
+862,4/1/2025,18-34,Vaccination,No-Show,,20.38,Practice Nurse,Branch Clinic,Medication Prescribed
+863,3/10/2025,35-49,Chronic Care Review,Completed,34,26.04,Practice Nurse,Community Centre,Medication Prescribed
+864,2/11/2025,65+,Follow-up,No-Show,9,52.95,Practice Nurse,Branch Clinic,Medication Prescribed
+865,3/18/2025,65+,Follow-up,Rescheduled,37,42.04,Practice Nurse,Main Practice,
+866,5/30/2025,35-49,Nurse Visit,Cancelled,31,,Healthcare Assistant,Branch Clinic,Referral Issued
+867,3/15/2025,50-64,Chronic Care Review,Rescheduled,4,18.09,Locum GP,Branch Clinic,Referral Issued
+868,3/23/2025,35-49,Follow-up,Cancelled,23,19.07,Locum GP,Branch Clinic,Medication Prescribed
+869,4/1/2025,50-64,Chronic Care Review,Rescheduled,34,48.72,Healthcare Assistant,Main Practice,Referral Issued
+870,3/22/2025,65+,Nurse Visit,Completed,31,18.03,Locum GP,Main Practice,Medication Prescribed
+871,4/21/2025,35-49,Nurse Visit,Cancelled,38,23.57,Practice Nurse,Community Centre,Referral Issued
+872,6/25/2025,65+,GP Consultation,Cancelled,6,24.35,Healthcare Assistant,Branch Clinic,Further Tests Required
+873,2/26/2025,0-17,GP Consultation,Cancelled,22,25.5,Practice Nurse,Main Practice,Referral Issued
+874,6/12/2025,35-49,Vaccination,No-Show,33,28.25,Practice Nurse,Main Practice,Resolved
+875,3/3/2025,50-64,Follow-up,Completed,33,21.21,Locum GP,Branch Clinic,Resolved
+876,5/1/2025,50-64,Nurse Visit,Rescheduled,6,6.78,Practice Nurse,Main Practice,Further Tests Required
+877,3/27/2025,18-34,Nurse Visit,No-Show,11,33.65,Healthcare Assistant,Main Practice,Medication Prescribed
+878,5/21/2025,18-34,GP Consultation,Completed,2,29.98,Healthcare Assistant,Community Centre,Referral Issued
+879,2/9/2025,0-17,Chronic Care Review,Rescheduled,21,35.02,Locum GP,Branch Clinic,Referral Issued
+880,2/5/2025,0-17,Follow-up,Rescheduled,,16.83,Practice Nurse,Main Practice,
+881,5/9/2025,50-64,GP Consultation,Rescheduled,31,47.49,Healthcare Assistant,Branch Clinic,Further Tests Required
+882,4/29/2025,35-49,Follow-up,Rescheduled,45,48.28,Practice Nurse,Community Centre,Medication Prescribed
+883,5/16/2025,50-64,Follow-up,No-Show,35,7.07,Healthcare Assistant,Community Centre,Referral Issued
+884,6/28/2025,0-17,Follow-up,Rescheduled,3,53.33,Locum GP,Community Centre,Further Tests Required
+885,1/31/2025,0-17,Nurse Visit,Cancelled,9,11.42,Practice Nurse,Main Practice,Further Tests Required
+886,5/15/2025,18-34,Vaccination,Completed,8,28.71,Healthcare Assistant,Branch Clinic,Further Tests Required
+887,2/15/2025,50-64,GP Consultation,Cancelled,35,21.52,Practice Nurse,Branch Clinic,Referral Issued
+888,3/1/2025,65+,Follow-up,Cancelled,17,35.61,Practice Nurse,Main Practice,Referral Issued
+889,5/11/2025,18-34,Vaccination,Completed,24,16.39,Locum GP,Main Practice,
+890,1/17/2025,0-17,GP Consultation,Rescheduled,27,18.95,Locum GP,Community Centre,Referral Issued
+891,1/11/2025,18-34,GP Consultation,No-Show,,26.09,Healthcare Assistant,Community Centre,Medication Prescribed
+892,3/5/2025,35-49,Nurse Visit,Completed,16,32.68,Practice Nurse,Branch Clinic,Medication Prescribed
+893,2/21/2025,0-17,Follow-up,Completed,5,57.46,Healthcare Assistant,Branch Clinic,Referral Issued
+894,4/19/2025,50-64,Follow-up,Cancelled,26,14.25,Locum GP,Branch Clinic,Referral Issued
+895,2/15/2025,0-17,GP Consultation,Rescheduled,,5.92,Healthcare Assistant,Main Practice,
+896,6/7/2025,0-17,Vaccination,Rescheduled,45,45.87,Practice Nurse,Branch Clinic,Referral Issued
+897,3/1/2025,65+,Vaccination,No-Show,34,39.74,Practice Nurse,Main Practice,Medication Prescribed
+898,3/18/2025,50-64,Vaccination,No-Show,,13.04,Locum GP,Branch Clinic,Resolved
+899,1/25/2025,50-64,Chronic Care Review,Rescheduled,35,13.05,Locum GP,Branch Clinic,Medication Prescribed
+900,2/13/2025,0-17,GP Consultation,Cancelled,33,59.93,Locum GP,Branch Clinic,Resolved
+901,2/27/2025,50-64,GP Consultation,Rescheduled,31,29.08,Healthcare Assistant,Community Centre,Referral Issued
+902,6/23/2025,65+,Chronic Care Review,Rescheduled,19,37.33,Healthcare Assistant,Community Centre,Medication Prescribed
+903,6/7/2025,35-49,Vaccination,Completed,25,,Locum GP,Community Centre,Further Tests Required
+904,1/13/2025,35-49,Nurse Visit,Cancelled,5,13.26,Healthcare Assistant,Community Centre,Medication Prescribed
+905,4/10/2025,0-17,Vaccination,Rescheduled,24,21.44,Practice Nurse,Branch Clinic,Referral Issued
+906,3/8/2025,50-64,GP Consultation,Cancelled,42,,Practice Nurse,Main Practice,Further Tests Required
+907,5/17/2025,0-17,Follow-up,Completed,9,33.5,Locum GP,Branch Clinic,Resolved
+908,4/19/2025,65+,Follow-up,Cancelled,0,39.29,Practice Nurse,Branch Clinic,Referral Issued
+909,6/28/2025,65+,Vaccination,Rescheduled,34,11.04,Practice Nurse,Main Practice,Referral Issued
+910,2/3/2025,0-17,Vaccination,Cancelled,27,58.0,Locum GP,Main Practice,Medication Prescribed
+911,5/5/2025,35-49,Follow-up,No-Show,7,8.7,Healthcare Assistant,Community Centre,Further Tests Required
+912,1/13/2025,18-34,Chronic Care Review,Rescheduled,5,54.47,Practice Nurse,Main Practice,Further Tests Required
+913,4/1/2025,35-49,GP Consultation,No-Show,19,15.97,Locum GP,Community Centre,Referral Issued
+914,1/29/2025,18-34,Follow-up,Cancelled,4,50.81,Practice Nurse,Community Centre,Further Tests Required
+915,1/2/2025,18-34,GP Consultation,No-Show,22,54.91,Locum GP,Main Practice,
+916,4/5/2025,50-64,Follow-up,Cancelled,17,33.94,Healthcare Assistant,Community Centre,
+917,5/21/2025,50-64,GP Consultation,Cancelled,7,26.43,Locum GP,Branch Clinic,
+918,2/25/2025,18-34,Vaccination,No-Show,2,16.66,Locum GP,Community Centre,Resolved
+919,1/12/2025,65+,Nurse Visit,Rescheduled,,40.67,Locum GP,Main Practice,Further Tests Required
+920,5/19/2025,50-64,Nurse Visit,Completed,7,12.16,Practice Nurse,Community Centre,Medication Prescribed
+921,1/28/2025,35-49,GP Consultation,Completed,20,58.89,Locum GP,Main Practice,Further Tests Required
+922,1/30/2025,18-34,Chronic Care Review,Cancelled,19,9.65,Healthcare Assistant,Community Centre,Further Tests Required
+923,1/11/2025,35-49,GP Consultation,No-Show,6,24.31,Practice Nurse,Main Practice,
+924,6/12/2025,18-34,Follow-up,Cancelled,39,47.5,Locum GP,Branch Clinic,Referral Issued
+925,2/4/2025,65+,Chronic Care Review,Cancelled,13,8.66,Healthcare Assistant,Main Practice,Further Tests Required
+926,6/9/2025,0-17,GP Consultation,Rescheduled,,31.79,Healthcare Assistant,Main Practice,Medication Prescribed
+927,5/14/2025,50-64,GP Consultation,No-Show,23,16.16,Locum GP,Main Practice,Referral Issued
+928,1/7/2025,35-49,Follow-up,Rescheduled,,10.19,Practice Nurse,Branch Clinic,Referral Issued
+929,5/3/2025,0-17,Chronic Care Review,No-Show,9,55.68,Locum GP,Community Centre,Medication Prescribed
+930,3/24/2025,35-49,Nurse Visit,Completed,13,38.35,Healthcare Assistant,Main Practice,
+931,4/2/2025,65+,Nurse Visit,Completed,20,51.32,Healthcare Assistant,Community Centre,Further Tests Required
+932,3/8/2025,50-64,Vaccination,Rescheduled,26,24.01,Healthcare Assistant,Community Centre,Further Tests Required
+933,5/14/2025,18-34,GP Consultation,Completed,,26.59,Healthcare Assistant,Main Practice,Medication Prescribed
+934,2/23/2025,0-17,Follow-up,No-Show,13,26.93,Practice Nurse,Branch Clinic,
+935,6/6/2025,18-34,Follow-up,Cancelled,5,59.84,Practice Nurse,Main Practice,
+936,5/20/2025,50-64,Chronic Care Review,Cancelled,9,21.19,Healthcare Assistant,Community Centre,Further Tests Required
+937,3/18/2025,0-17,Follow-up,Rescheduled,19,,Healthcare Assistant,Branch Clinic,Resolved
+938,2/4/2025,35-49,Nurse Visit,No-Show,43,16.62,Healthcare Assistant,Branch Clinic,
+939,1/3/2025,65+,Nurse Visit,Cancelled,12,15.89,Practice Nurse,Main Practice,Referral Issued
+940,2/28/2025,18-34,GP Consultation,Cancelled,43,6.48,Locum GP,Community Centre,Medication Prescribed
+941,1/28/2025,18-34,Follow-up,Rescheduled,40,11.02,Healthcare Assistant,Branch Clinic,Resolved
+942,6/21/2025,50-64,GP Consultation,Completed,,27.53,Locum GP,Branch Clinic,Medication Prescribed
+943,5/25/2025,35-49,Vaccination,Cancelled,,16.1,Locum GP,Branch Clinic,Further Tests Required
+944,2/11/2025,50-64,Vaccination,Cancelled,25,23.53,Healthcare Assistant,Main Practice,Resolved
+945,1/2/2025,50-64,Follow-up,Cancelled,2,46.48,Healthcare Assistant,Branch Clinic,Resolved
+946,4/5/2025,35-49,Follow-up,Rescheduled,,,Healthcare Assistant,Main Practice,Medication Prescribed
+947,5/25/2025,65+,GP Consultation,Cancelled,3,53.57,Practice Nurse,Branch Clinic,Further Tests Required
+948,5/5/2025,50-64,GP Consultation,Cancelled,15,51.44,Healthcare Assistant,Main Practice,Further Tests Required
+949,2/27/2025,18-34,Nurse Visit,No-Show,,38.22,Healthcare Assistant,Main Practice,Referral Issued
+950,3/11/2025,50-64,Vaccination,No-Show,15,,Healthcare Assistant,Community Centre,Medication Prescribed
+951,6/12/2025,65+,GP Consultation,No-Show,11,59.73,Healthcare Assistant,Branch Clinic,
+952,1/29/2025,50-64,Vaccination,No-Show,35,26.35,Healthcare Assistant,Community Centre,Medication Prescribed
+953,2/16/2025,18-34,Follow-up,Cancelled,35,55.88,Healthcare Assistant,Branch Clinic,
+954,5/2/2025,18-34,Chronic Care Review,Rescheduled,23,49.43,Locum GP,Branch Clinic,Resolved
+955,2/18/2025,35-49,Vaccination,No-Show,21,50.93,Locum GP,Community Centre,Resolved
+956,2/19/2025,50-64,GP Consultation,Completed,16,48.19,Locum GP,Main Practice,Referral Issued
+957,3/6/2025,0-17,Nurse Visit,No-Show,4,43.88,Healthcare Assistant,Community Centre,Resolved
+958,1/26/2025,18-34,Nurse Visit,Completed,2,23.05,Healthcare Assistant,Main Practice,Medication Prescribed
+959,3/8/2025,50-64,GP Consultation,Cancelled,26,38.95,Locum GP,Community Centre,Medication Prescribed
+960,2/28/2025,0-17,Chronic Care Review,Rescheduled,,18.59,Healthcare Assistant,Branch Clinic,Referral Issued
+961,5/11/2025,65+,Chronic Care Review,No-Show,20,16.58,Locum GP,Branch Clinic,Medication Prescribed
+962,2/17/2025,35-49,Vaccination,Cancelled,17,8.31,Practice Nurse,Community Centre,Referral Issued
+963,2/19/2025,35-49,Follow-up,Cancelled,34,26.17,Healthcare Assistant,Community Centre,Further Tests Required
+964,2/12/2025,0-17,Nurse Visit,Rescheduled,,5.78,Healthcare Assistant,Main Practice,Medication Prescribed
+965,3/3/2025,18-34,Nurse Visit,Cancelled,,37.68,Locum GP,Main Practice,Resolved
+966,6/23/2025,18-34,GP Consultation,No-Show,4,41.85,Locum GP,Branch Clinic,Referral Issued
+967,5/8/2025,18-34,GP Consultation,Rescheduled,35,44.46,Practice Nurse,Branch Clinic,Further Tests Required
+968,2/28/2025,18-34,Vaccination,Rescheduled,9,31.99,Locum GP,Main Practice,Further Tests Required
+969,5/19/2025,18-34,GP Consultation,Rescheduled,6,32.84,Locum GP,Community Centre,Resolved
+970,1/26/2025,65+,Chronic Care Review,Completed,12,56.62,Locum GP,Community Centre,Further Tests Required
+971,4/22/2025,35-49,Vaccination,No-Show,31,31.9,Practice Nurse,Branch Clinic,Further Tests Required
+972,5/31/2025,35-49,Nurse Visit,Completed,34,16.49,Practice Nurse,Branch Clinic,Medication Prescribed
+973,5/18/2025,0-17,Chronic Care Review,Cancelled,1,9.52,Healthcare Assistant,Community Centre,Further Tests Required
+974,2/22/2025,18-34,GP Consultation,Rescheduled,10,32.87,Healthcare Assistant,Branch Clinic,Further Tests Required
+975,4/25/2025,65+,GP Consultation,Rescheduled,32,10.02,Locum GP,Branch Clinic,Medication Prescribed
+976,6/15/2025,35-49,Chronic Care Review,Rescheduled,,59.75,Locum GP,Community Centre,Referral Issued
+977,2/21/2025,50-64,Chronic Care Review,Completed,16,49.61,Practice Nurse,Community Centre,
+978,4/4/2025,0-17,Follow-up,No-Show,,50.86,Locum GP,Branch Clinic,Medication Prescribed
+979,6/5/2025,50-64,Follow-up,Completed,6,12.88,Locum GP,Branch Clinic,
+980,1/2/2025,35-49,GP Consultation,Completed,16,16.88,Practice Nurse,Branch Clinic,Resolved
+981,5/28/2025,0-17,Nurse Visit,Rescheduled,22,19.48,Locum GP,Branch Clinic,Further Tests Required
+982,5/21/2025,18-34,Vaccination,Cancelled,11,54.92,Practice Nurse,Main Practice,Resolved
+983,3/4/2025,0-17,GP Consultation,Rescheduled,8,41.03,Practice Nurse,Main Practice,Referral Issued
+984,4/28/2025,0-17,Chronic Care Review,Completed,10,45.36,Locum GP,Community Centre,Further Tests Required
+985,4/17/2025,65+,Follow-up,Rescheduled,15,50.3,Practice Nurse,Main Practice,
+986,5/9/2025,65+,Nurse Visit,No-Show,0,23.02,Healthcare Assistant,Branch Clinic,
+987,5/30/2025,65+,GP Consultation,Completed,29,52.14,Locum GP,Branch Clinic,Resolved
+988,4/8/2025,65+,Nurse Visit,No-Show,8,25.96,Healthcare Assistant,Branch Clinic,Medication Prescribed
+989,3/17/2025,18-34,Nurse Visit,Rescheduled,12,56.6,Locum GP,Branch Clinic,Referral Issued
+990,4/13/2025,65+,Nurse Visit,Cancelled,1,34.66,Locum GP,Branch Clinic,Further Tests Required
+991,2/21/2025,18-34,GP Consultation,Cancelled,,9.94,Healthcare Assistant,Branch Clinic,Referral Issued
+992,1/29/2025,65+,Vaccination,No-Show,10,7.14,Healthcare Assistant,Branch Clinic,
+993,5/18/2025,0-17,Chronic Care Review,No-Show,20,22.42,Healthcare Assistant,Community Centre,Further Tests Required
+994,1/17/2025,18-34,Vaccination,No-Show,6,32.12,Practice Nurse,Branch Clinic,Resolved
+995,4/26/2025,50-64,Follow-up,Completed,42,54.55,Locum GP,Branch Clinic,Resolved
+996,2/3/2025,18-34,Nurse Visit,Rescheduled,16,12.75,Locum GP,Main Practice,Further Tests Required
+997,5/15/2025,35-49,Nurse Visit,No-Show,2,30.05,Healthcare Assistant,Branch Clinic,Referral Issued
+998,6/11/2025,18-34,Nurse Visit,Cancelled,,56.34,Healthcare Assistant,Community Centre,Further Tests Required
+999,3/31/2025,35-49,Vaccination,Rescheduled,3,28.6,Practice Nurse,Branch Clinic,
+1000,1/1/2025,65+,Follow-up,Rescheduled,34,58.79,Healthcare Assistant,Community Centre,Medication Prescribed
