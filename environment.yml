@@ -1,0 +1,12 @@
+name: primary-care-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - sqlalchemy
+  - psycopg2
+  - pip
+  - pip:
+      - python-dotenv
