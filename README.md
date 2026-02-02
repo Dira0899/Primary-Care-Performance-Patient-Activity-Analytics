@@ -158,17 +158,21 @@ The dashboards are designed to support:
 ```
 primary-care-analytics/
 ├── data/
+│ └── processed/
+│ ├── appointments_all.csv
+│ ├── appointments_clean.csv
 │ └── raw/
 │ ├── appointments_2023_2.csv
 │ ├── appointments_2024_1.csv
 │ ├── appointments_2024_2.csv
 │ ├── appointments_2025_1.csv
 │ └── appointments_2025_2.csv
-├── notebooks/ # Exploration & data quality checks
-├── sql/ # Warehouse & star schema scripts
+├── notebooks/
+│ ├── 01. data_integration.py
+│ ├── 02. data_quality_check.py
+├── sql/
+│ ├── primary_care_analystic.sql
 ├── dashboards/ # Power BI files & screenshots (upcoming)
-├── logs/ # ETL validation logs
-├── requirements.txt
 └── README.md
 ```
 ## 📌 Project Status
